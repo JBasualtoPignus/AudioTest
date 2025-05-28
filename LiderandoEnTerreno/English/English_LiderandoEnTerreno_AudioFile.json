@@ -1,0 +1,40 @@
+{
+  "73a55dca-3901-44a1-9599-47b4a5169de7": {
+    "LiderandoTerreno-Fase 2-0001": "The activity has a bar above it that shows its progress. When the bar is complete, the activity will end.",
+    "LiderandoTerreno-Fase 2-0002": "The worker needs an answer to their concern. Choose one of the available response options using one of your controllers. Point at the option you think is correct and press the index finger button to select it.",
+    "LiderandoTerreno-Fase 2-0003": "You can see there are some glowing blue zones around the area. To move toward them, point with one of your controllers at the zone and press the index finger button.",
+    "LiderandoTerreno-Fase 2-0004": "You have completed the first activity. When you're ready to continue with the supervision of the other two activities, press continue. Keep in mind that both activities will happen simultaneously due to this company's policies, so you must stay attentive to each one.",
+    "LiderandoTerreno-Fase 2-0005": "Very good. Now perform the personal protective equipment check for both activities. They will begin once both have completed their PPE verification. Don’t forget to pay attention to the symbols that may appear so you can take action using your tablet.",
+    "LiderandoTerreno-Fase 2-0006": "Remember: when you see one of the symbols explained in the tutorial, use your tablet to take the corresponding actions, such as encouraging, reporting an unsafe behavior, or resuming the activity.",
+    "LiderandoTerreno-Fase 2-0007": "A new situation has occurred. Read the instruction carefully and press the continue button.",
+    "LiderandoTerreno-Fase 2-0008": "Select the workers who will replace the current ones. Press the worker’s image to assign them, then use the green button to continue.",
+    "LiderandoTerreno-Fase 2-0009": "You must distribute the available resources for each activity. To add or remove, press each of the boxes. Once you've distributed them all, press the green button to continue.",
+    "LiderandoTerreno-Fase 2-0010": "You have finished your workday. Now you can return to the office to complete the closing process for your day.",
+    "LiderandoTerreno-Fase 2-0011": "Resolve this unsafe behavior by selecting the buttons on the left side of your panel in the correct order."
+  },
+  "26ea7777-2943-4a19-83d7-032bd2f0cd78": {
+    "01_welcome": "Hello world",
+    "02_firstTask": "",
+    "03_howToRespond": "",
+    "04_pressContinueButton": "",
+    "05_howToTeleport": "",
+    "06_howToChecklist": "",
+    "07_enterVehicle": "",
+    "08_insideVehicle": "",
+    "09_howToStartVehicle": "",
+    "10_vehicleStartMoving": "",
+    "11_stayAlert": "",
+    "12_unexpectedSituation": "",
+    "13_takeDecision": "",
+    "15_correctDecision": "",
+    "16_veryGood": "",
+    "17_consequences": "",
+    "18_wrongDecision": "",
+    "19_testComplete": "",
+    "14_outOfTimeDecision": "",
+    "20_endFaseTwo": "",
+    "21_exitCarFaseThree": "",
+    "22_YaReportamosDisclaimer": "",
+    "23_HaQuedadoRegistrada": ""
+  }
+}
