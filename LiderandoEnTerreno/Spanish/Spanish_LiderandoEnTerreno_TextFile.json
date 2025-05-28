@@ -257,6 +257,150 @@
       "Scene": "Driving",
       "Value": "99/99",
       "State": "Added"
+    },
+    {
+      "Key": "952acc5f-e6b5-48c0-aca1-4d371b77d49c",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Added"
+    },
+    {
+      "Key": "1249e254-482e-4d28-b575-d8d76243f9d1",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Added"
+    },
+    {
+      "Key": "3bd24b95-a242-4965-8eba-fc963635b92f",
+      "Scene": "Login",
+      "Value": "apertura visual: 1.0",
+      "State": "Added"
+    },
+    {
+      "Key": "804b8f7a-1a12-4742-9b76-db1438672721",
+      "Scene": "Login",
+      "Value": "Micrófono",
+      "State": "Added"
+    },
+    {
+      "Key": "c6b853c1-b0e3-4a45-91fa-6e3d13b9a8cb",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Added"
+    },
+    {
+      "Key": "a648c7d0-6134-452c-acbd-8791d8c774af",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Added"
+    },
+    {
+      "Key": "be2866fb-9fb0-4b0d-ad57-8ae34de16583",
+      "Scene": "Login",
+      "Value": "apertura visual: 1",
+      "State": "Added"
+    },
+    {
+      "Key": "5b4a5193-beef-470b-8a63-902e1a427e9b",
+      "Scene": "Login",
+      "Value": "Micrófono",
+      "State": "Added"
+    },
+    {
+      "Key": "35456950-7e16-4789-b5db-826fbb2cae6f",
+      "Scene": "Login",
+      "Value": "Turn",
+      "State": "Added"
+    },
+    {
+      "Key": "9a4e9020-62df-45f2-ab71-e4d113eb2604",
+      "Scene": "Login",
+      "Value": "Teleport",
+      "State": "Added"
+    },
+    {
+      "Key": "0542c7d3-e0f5-40ed-80ae-b841821e34e7",
+      "Scene": "Login",
+      "Value": "Nickname",
+      "State": "Added"
+    },
+    {
+      "Key": "d80bb806-3876-4c3d-886c-f875daa8df25",
+      "Scene": "Login",
+      "Value": "¿Este es tu RUT/DNI?",
+      "State": "Added"
+    },
+    {
+      "Key": "d39551ab-46ff-455f-bcf4-c57998040245",
+      "Scene": "Login",
+      "Value": "Envio de archivos",
+      "State": "Added"
+    },
+    {
+      "Key": "b379c1a1-d83b-4064-acda-76500a8c026c",
+      "Scene": "Login",
+      "Value": "-",
+      "State": "Added"
+    },
+    {
+      "Key": "562f0b59-60a6-44fc-96ad-c3c3f01afdb1",
+      "Scene": "Login",
+      "Value": "K",
+      "State": "Added"
+    },
+    {
+      "Key": "cf65fff8-9cf5-4a1a-823a-e1a12cb01a62",
+      "Scene": "Login",
+      "Value": "Enviar pendientes",
+      "State": "Added"
+    },
+    {
+      "Key": "a59c38ec-4e4e-4b8b-b574-bee68ad5ac1a",
+      "Scene": "Login",
+      "Value": "Lorem ipsum",
+      "State": "Added"
+    },
+    {
+      "Key": "14088c94-ee43-442d-a4c1-323916d5d44a",
+      "Scene": "Login",
+      "Value": "0-9",
+      "State": "Added"
+    },
+    {
+      "Key": "40a23148-93a7-4ff1-a0e1-2b1306fe0e56",
+      "Scene": "Login",
+      "Value": "Ingresa tu rut para comenzar",
+      "State": "Added"
+    },
+    {
+      "Key": "15211394-edca-41de-9493-f97dd44d99dc",
+      "Scene": "Login",
+      "Value": "191231231",
+      "State": "Added"
+    },
+    {
+      "Key": "cba4a157-cf20-4429-bc8d-cb94b77e0f8a",
+      "Scene": "Login",
+      "Value": "V6.6.6\nBV66",
+      "State": "Added"
+    },
+    {
+      "Key": "41e68756-5c18-4f20-8438-826d24f08b2c",
+      "Scene": "Login",
+      "Value": "Ingresar",
+      "State": "Added"
+    },
+    {
+      "Key": "3924e29b-6e4e-4f6c-b35c-32ffb2e52fcf",
+      "Scene": "Login",
+      "Value": "SI",
+      "State": "Added"
+    },
+    {
+      "Key": "a0ce05a7-7e5c-49d9-884f-87c384419fa3",
+      "Scene": "Login",
+      "Value": "NO",
+      "State": "Added"
     }
   ],
   "name": "",
