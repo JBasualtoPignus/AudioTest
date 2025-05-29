@@ -21,7 +21,7 @@
     {
       "Key": "e0ec7c33-f4f0-4b2e-87ac-e18e9e18f17e",
       "Scene": "Driving",
-      "Value": "Is fit to drive?",
+      "Value": "Is he/she fit to drive?",
       "State": "Added"
     },
     {
@@ -81,7 +81,7 @@
     {
       "Key": "b38fd114-2656-44d1-9438-c5b01912be12",
       "Scene": "Driving",
-      "Value": "Store personal items",
+      "Value": "Save personal items",
       "State": "Added"
     },
     {
@@ -93,7 +93,7 @@
     {
       "Key": "b2bcf139-63dd-408a-b515-b45af0576eba",
       "Scene": "Driving",
-      "Value": "Store backpack",
+      "Value": "Save backpack",
       "State": "Added"
     },
     {
@@ -123,7 +123,7 @@
     {
       "Key": "59e31a5b-7573-45e9-8f14-f544efdd898f",
       "Scene": "Driving",
-      "Value": "Congratulations, you completed the drivers module",
+      "Value": "Congratulations, you completed the driver module",
       "State": "Added"
     },
     {
@@ -141,7 +141,7 @@
     {
       "Key": "6b203288-01c1-42bc-a030-bb039b4a5d41",
       "Scene": "Driving",
-      "Value": "Number of correct answers in vehicle checklist",
+      "Value": "Number of correct answers on the vehicle checklist",
       "State": "Added"
     },
     {
@@ -201,13 +201,13 @@
     {
       "Key": "9f616352-1344-4dbf-83a9-d80f852ef0a7",
       "Scene": "Driving",
-      "Value": "Is fit to drive?",
+      "Value": "Is he/she fit to drive?",
       "State": "Added"
     },
     {
       "Key": "faa4d662-c95f-4e54-9c13-0dcb95372e17",
       "Scene": "Driving",
-      "Value": "Is fit to drive?",
+      "Value": "Is he/she fit to drive?",
       "State": "Added"
     },
     {
@@ -217,43 +217,73 @@
       "State": "Added"
     },
     {
-      "Key": "18e54ebd-1bd0-494b-ba1d-9c6d0cd5dbb9",
+      "Key": "18e54ebd-1bd0-494b-ba1d-9c6d0cd5db43",
       "Scene": "Driving",
       "Value": "Fasten seatbelt",
       "State": "Added"
     },
     {
-      "Key": "ea64a270-1418-4c4c-b8d7-2f9322b5d1e3",
+      "Key": "1d2d8b52-796d-4955-b064-f52c5efb6280",
       "Scene": "Driving",
-      "Value": "Congratulation, you finished the drivers module",
+      "Value": "Restart",
       "State": "Added"
     },
     {
-      "Key": "c122ea00-2385-409b-a00d-63ca8c2435ef",
+      "Key": "33e2a11f-3dbf-4d1f-ae81-c4c2d08578d4",
+      "Scene": "Driving",
+      "Value": "Congratulations, you completed the driver module",
+      "State": "Added"
+    },
+    {
+      "Key": "00cfd8b6-feb7-48a2-ae38-c4b07a62e79b",
+      "Scene": "Driving",
+      "Value": "Close window",
+      "State": "Added"
+    },
+    {
+      "Key": "1352dfb2-68e2-4fdd-988f-345bfa7df7df",
+      "Scene": "Driving",
+      "Value": "Correct situations",
+      "State": "Added"
+    },
+    {
+      "Key": "89d412b4-9d24-4e1d-b2d4-72616bf8759a",
       "Scene": "Login",
-      "Value": "Username or email",
+      "Value": "Login",
       "State": "Added"
     },
     {
-      "Key": "d9272cc8-1e96-426b-95bb-145de1f3431f",
+      "Key": "3a1db8ae-7d59-40e9-9d0e-398383c24201",
+      "Scene": "Login",
+      "Value": "Enter",
+      "State": "Added"
+    },
+    {
+      "Key": "570e4b54-e814-46a3-9b9a-b75ca60a0a3b",
+      "Scene": "Login",
+      "Value": "Email",
+      "State": "Added"
+    },
+    {
+      "Key": "a93b4ebd-c95d-4f18-9cc4-dacde8c1fdb9",
       "Scene": "Login",
       "Value": "Password",
       "State": "Added"
     },
     {
-      "Key": "d07bb48d-7c8e-44a2-b8b1-9933c1ca2645",
+      "Key": "9a9d94c4-145e-4c23-9f66-9f17aeb4d787",
       "Scene": "Login",
-      "Value": "Sign In",
+      "Value": "Log in to your account",
       "State": "Added"
     },
     {
-      "Key": "a9f1cd1d-53ae-4bd9-8532-46df69a63e10",
+      "Key": "3f42e2ac-4f92-4cdd-b2e9-cc33ddf52bf6",
       "Scene": "Login",
-      "Value": "Don't have an account? Sign up",
+      "Value": "Create an account",
       "State": "Added"
     },
     {
-      "Key": "975e6950-679a-4ef9-bc1e-9f8a0a43df72",
+      "Key": "57e33b1e-93c6-41aa-95d4-c6715ae1a51b",
       "Scene": "Login",
       "Value": "Forgot your password?",
       "State": "Added"
