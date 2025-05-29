@@ -39,7 +39,7 @@
     {
       "Key": "a76621a7-fd95-4c97-bfca-e2ec1056ed16",
       "Scene": "Driving",
-      "Value": "EMERGENCY CALL",
+      "Value": "URGENT CALL",
       "State": "Added"
     },
     {
@@ -135,7 +135,7 @@
     {
       "Key": "e97ccb41-f580-4890-a4c4-d62a498fb9e1",
       "Scene": "Driving",
-      "Value": "Put on seatbelt",
+      "Value": "Fasten seatbelt",
       "State": "Added"
     },
     {
@@ -217,45 +217,45 @@
       "State": "Added"
     },
     {
-      "Key": "18e54ebd-1bd0-494b-ba1d-9c6d0cd5db43",
+      "Key": "18e54ebd-1bd0-494b-ba1d-9c6d0cd5dbb9",
       "Scene": "Driving",
-      "Value": "Checklist",
+      "Value": "Fasten seatbelt",
       "State": "Added"
     },
     {
-      "Key": "6364203a-264e-4b2e-a27d-688c31e7b9b7",
+      "Key": "ea64a270-1418-4c4c-b8d7-2f9322b5d1e3",
       "Scene": "Driving",
-      "Value": "Vehicle permit",
+      "Value": "Congratulation, you finished the drivers module",
       "State": "Added"
     },
     {
-      "Key": "f6eb15c5-659a-4f6e-8c5d-f58eb3bc6307",
-      "Scene": "Driving",
-      "Value": "99 sec",
+      "Key": "c122ea00-2385-409b-a00d-63ca8c2435ef",
+      "Scene": "Login",
+      "Value": "Username or email",
       "State": "Added"
     },
     {
-      "Key": "95c5c831-6373-42ba-9f73-19a23b464e6e",
-      "Scene": "Driving",
-      "Value": "Technical inspection",
+      "Key": "d9272cc8-1e96-426b-95bb-145de1f3431f",
+      "Scene": "Login",
+      "Value": "Password",
       "State": "Added"
     },
     {
-      "Key": "c9ed89c3-193d-4783-8683-7013dfc829e6",
-      "Scene": "Driving",
-      "Value": "0 km/h",
+      "Key": "d07bb48d-7c8e-44a2-b8b1-9933c1ca2645",
+      "Scene": "Login",
+      "Value": "Sign In",
       "State": "Added"
     },
     {
-      "Key": "dcba53ba-5640-4045-a6ed-2cbfbad7cda3",
-      "Scene": "Driving",
-      "Value": "checklist",
+      "Key": "a9f1cd1d-53ae-4bd9-8532-46df69a63e10",
+      "Scene": "Login",
+      "Value": "Don't have an account? Sign up",
       "State": "Added"
     },
     {
-      "Key": "67f6f36e-7ec7-4951-bced-af37313c00ce",
-      "Scene": "Driving",
-      "Value": "99/99",
+      "Key": "975e6950-679a-4ef9-bc1e-9f8a0a43df72",
+      "Scene": "Login",
+      "Value": "Forgot your password?",
       "State": "Added"
     }
   ]
