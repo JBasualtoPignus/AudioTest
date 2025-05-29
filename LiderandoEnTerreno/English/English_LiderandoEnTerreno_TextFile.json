@@ -21,7 +21,7 @@
     {
       "Key": "e0ec7c33-f4f0-4b2e-87ac-e18e9e18f17e",
       "Scene": "Driving",
-      "Value": "Is he/she fit to drive?",
+      "Value": "Is it suitable for driving?",
       "State": "Added"
     },
     {
@@ -33,7 +33,7 @@
     {
       "Key": "baa91853-b812-415a-9670-8b126792739b",
       "Scene": "Driving",
-      "Value": "Uploading results to server...",
+      "Value": "Uploading results to the server...",
       "State": "Added"
     },
     {
@@ -93,7 +93,7 @@
     {
       "Key": "b2bcf139-63dd-408a-b515-b45af0576eba",
       "Scene": "Driving",
-      "Value": "Save backpack",
+      "Value": "Store backpack",
       "State": "Added"
     },
     {
@@ -123,7 +123,7 @@
     {
       "Key": "59e31a5b-7573-45e9-8f14-f544efdd898f",
       "Scene": "Driving",
-      "Value": "Congratulations, you completed the driver module",
+      "Value": "Congratulations, you have finished the driver's module",
       "State": "Added"
     },
     {
@@ -141,7 +141,7 @@
     {
       "Key": "6b203288-01c1-42bc-a030-bb039b4a5d41",
       "Scene": "Driving",
-      "Value": "Number of correct answers on the vehicle checklist",
+      "Value": "Number of correct items in the vehicle checklist",
       "State": "Added"
     },
     {
@@ -201,13 +201,13 @@
     {
       "Key": "9f616352-1344-4dbf-83a9-d80f852ef0a7",
       "Scene": "Driving",
-      "Value": "Is he/she fit to drive?",
+      "Value": "Is it suitable for driving?",
       "State": "Added"
     },
     {
       "Key": "faa4d662-c95f-4e54-9c13-0dcb95372e17",
       "Scene": "Driving",
-      "Value": "Is he/she fit to drive?",
+      "Value": "Is it suitable for driving?",
       "State": "Added"
     },
     {
@@ -219,74 +219,478 @@
     {
       "Key": "18e54ebd-1bd0-494b-ba1d-9c6d0cd5db43",
       "Scene": "Driving",
-      "Value": "Fasten seatbelt",
+      "Value": "Checklist",
       "State": "Added"
     },
     {
-      "Key": "1d2d8b52-796d-4955-b064-f52c5efb6280",
+      "Key": "6364203a-264e-4b2e-a27d-688c31e7b9b7",
       "Scene": "Driving",
-      "Value": "Restart",
+      "Value": "Vehicle registration permit",
       "State": "Added"
     },
     {
-      "Key": "33e2a11f-3dbf-4d1f-ae81-c4c2d08578d4",
+      "Key": "f6eb15c5-659a-4f6e-8c5d-f58eb3bc6307",
       "Scene": "Driving",
-      "Value": "Congratulations, you completed the driver module",
+      "Value": "99 sec",
       "State": "Added"
     },
     {
-      "Key": "00cfd8b6-feb7-48a2-ae38-c4b07a62e79b",
+      "Key": "95c5c831-6373-42ba-9f73-19a23b464e6e",
       "Scene": "Driving",
-      "Value": "Close window",
+      "Value": "Technical inspection",
       "State": "Added"
     },
     {
-      "Key": "1352dfb2-68e2-4fdd-988f-345bfa7df7df",
+      "Key": "c9ed89c3-193d-4783-8683-7013dfc829e6",
       "Scene": "Driving",
-      "Value": "Correct situations",
+      "Value": "0 km/h",
       "State": "Added"
     },
     {
-      "Key": "89d412b4-9d24-4e1d-b2d4-72616bf8759a",
+      "Key": "dcba53ba-5640-4045-a6ed-2cbfbad7cda3",
+      "Scene": "Driving",
+      "Value": "checklist",
+      "State": "Added"
+    },
+    {
+      "Key": "67f6f36e-7ec7-4951-bced-af37313c00ce",
+      "Scene": "Driving",
+      "Value": "99/99",
+      "State": "Added"
+    },
+    {
+      "Key": "952acc5f-e6b5-48c0-aca1-4d371b77d49c",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Removed"
+    },
+    {
+      "Key": "1249e254-482e-4d28-b575-d8d76243f9d1",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Removed"
+    },
+    {
+      "Key": "3bd24b95-a242-4965-8eba-fc963635b92f",
+      "Scene": "Login",
+      "Value": "visual aperture: 1.0",
+      "State": "Removed"
+    },
+    {
+      "Key": "804b8f7a-1a12-4742-9b76-db1438672721",
+      "Scene": "Login",
+      "Value": "Microphone",
+      "State": "Removed"
+    },
+    {
+      "Key": "c6b853c1-b0e3-4a45-91fa-6e3d13b9a8cb",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Removed"
+    },
+    {
+      "Key": "a648c7d0-6134-452c-acbd-8791d8c774af",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Removed"
+    },
+    {
+      "Key": "be2866fb-9fb0-4b0d-ad57-8ae34de16583",
+      "Scene": "Login",
+      "Value": "visual aperture: 1",
+      "State": "Removed"
+    },
+    {
+      "Key": "5b4a5193-beef-470b-8a63-902e1a427e9b",
+      "Scene": "Login",
+      "Value": "Microphone",
+      "State": "Removed"
+    },
+    {
+      "Key": "35456950-7e16-4789-b5db-826fbb2cae6f",
+      "Scene": "Login",
+      "Value": "Turn",
+      "State": "Removed"
+    },
+    {
+      "Key": "9a4e9020-62df-45f2-ab71-e4d113eb2604",
+      "Scene": "Login",
+      "Value": "Teleport",
+      "State": "Removed"
+    },
+    {
+      "Key": "0542c7d3-e0f5-40ed-80ae-b841821e34e7",
+      "Scene": "Login",
+      "Value": "Nickname",
+      "State": "Removed"
+    },
+    {
+      "Key": "d80bb806-3876-4c3d-886c-f875daa8df25",
+      "Scene": "Login",
+      "Value": "Is this your RUT/DNI?",
+      "State": "Removed"
+    },
+    {
+      "Key": "d39551ab-46ff-455f-bcf4-c57998040245",
+      "Scene": "Login",
+      "Value": "File submission",
+      "State": "Removed"
+    },
+    {
+      "Key": "b379c1a1-d83b-4064-acda-76500a8c026c",
+      "Scene": "Login",
+      "Value": "-",
+      "State": "Removed"
+    },
+    {
+      "Key": "562f0b59-60a6-44fc-96ad-c3c3f01afdb1",
+      "Scene": "Login",
+      "Value": "K",
+      "State": "Removed"
+    },
+    {
+      "Key": "cf65fff8-9cf5-4a1a-823a-e1a12cb01a62",
+      "Scene": "Login",
+      "Value": "Send pending",
+      "State": "Removed"
+    },
+    {
+      "Key": "a59c38ec-4e4e-4b8b-b574-bee68ad5ac1a",
+      "Scene": "Login",
+      "Value": "Lorem ipsum",
+      "State": "Removed"
+    },
+    {
+      "Key": "14088c94-ee43-442d-a4c1-323916d5d44a",
+      "Scene": "Login",
+      "Value": "0-9",
+      "State": "Removed"
+    },
+    {
+      "Key": "40a23148-93a7-4ff1-a0e1-2b1306fe0e56",
+      "Scene": "Login",
+      "Value": "Enter your RUT to start",
+      "State": "Removed"
+    },
+    {
+      "Key": "15211394-edca-41de-9493-f97dd44d99dc",
+      "Scene": "Login",
+      "Value": "191231231",
+      "State": "Removed"
+    },
+    {
+      "Key": "cba4a157-cf20-4429-bc8d-cb94b77e0f8a",
+      "Scene": "Login",
+      "Value": "V6.6.6\nBV66",
+      "State": "Removed"
+    },
+    {
+      "Key": "41e68756-5c18-4f20-8438-826d24f08b2c",
+      "Scene": "Login",
+      "Value": "Login",
+      "State": "Removed"
+    },
+    {
+      "Key": "3924e29b-6e4e-4f6c-b35c-32ffb2e52fcf",
+      "Scene": "Login",
+      "Value": "YES",
+      "State": "Removed"
+    },
+    {
+      "Key": "a0ce05a7-7e5c-49d9-884f-87c384419fa3",
+      "Scene": "Login",
+      "Value": "NO",
+      "State": "Removed"
+    },
+    {
+      "Key": "2d2bfe82-46ec-43c1-9147-c8fe9f8919de",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Removed"
+    },
+    {
+      "Key": "5cd65b63-a6ff-4e69-a3ae-45e11c463fb0",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Removed"
+    },
+    {
+      "Key": "28be507d-d075-4138-99f6-baed419d1fcd",
+      "Scene": "Login",
+      "Value": "visual aperture: 1.0",
+      "State": "Removed"
+    },
+    {
+      "Key": "bc250036-0b00-4187-964b-2f052d68ce8f",
+      "Scene": "Login",
+      "Value": "Microphone",
+      "State": "Removed"
+    },
+    {
+      "Key": "aaa3b1a5-9647-4c39-8a5d-fab85b6fb1ba",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Removed"
+    },
+    {
+      "Key": "78d0df22-dd07-4699-86ea-5a7882a4105d",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Removed"
+    },
+    {
+      "Key": "ebfa03c3-4263-48c0-9521-655610a661ad",
+      "Scene": "Login",
+      "Value": "visual aperture: 1",
+      "State": "Removed"
+    },
+    {
+      "Key": "38342593-153f-47a1-963f-d7e4b5355342",
+      "Scene": "Login",
+      "Value": "Microphone",
+      "State": "Removed"
+    },
+    {
+      "Key": "b2f44386-3eed-4c9e-8579-eaae4d1724bb",
+      "Scene": "Login",
+      "Value": "Turn",
+      "State": "Removed"
+    },
+    {
+      "Key": "99d26a9d-64b7-43de-abd7-982da359b4e1",
+      "Scene": "Login",
+      "Value": "Teleport",
+      "State": "Removed"
+    },
+    {
+      "Key": "962a635a-6f52-46ff-a85a-d8698490d993",
+      "Scene": "Login",
+      "Value": "Nickname",
+      "State": "Removed"
+    },
+    {
+      "Key": "7cc54bfc-c785-4458-a740-4996261d83ff",
+      "Scene": "Login",
+      "Value": "Is this your RUT/DNI?",
+      "State": "Removed"
+    },
+    {
+      "Key": "07b92953-f12d-4f16-a6a6-257a80df60f1",
+      "Scene": "Login",
+      "Value": "File submission",
+      "State": "Removed"
+    },
+    {
+      "Key": "1bf94341-ddbc-49c6-b0c1-9e017e3b4549",
+      "Scene": "Login",
+      "Value": "-",
+      "State": "Removed"
+    },
+    {
+      "Key": "090329e8-7736-471f-aae1-4a36ac9d825b",
+      "Scene": "Login",
+      "Value": "K",
+      "State": "Removed"
+    },
+    {
+      "Key": "da46db6e-eb59-4791-8222-1ac70113b560",
+      "Scene": "Login",
+      "Value": "Send pending",
+      "State": "Removed"
+    },
+    {
+      "Key": "f92976c1-4628-4723-bac6-4fc09bdc6ce9",
+      "Scene": "Login",
+      "Value": "Lorem ipsum",
+      "State": "Removed"
+    },
+    {
+      "Key": "cbde5121-2282-41af-b0c8-31743aa639c6",
+      "Scene": "Login",
+      "Value": "0-9",
+      "State": "Removed"
+    },
+    {
+      "Key": "cf72f411-371c-4135-a12e-99e3432cb91a",
+      "Scene": "Login",
+      "Value": "Enter your RUT to start",
+      "State": "Removed"
+    },
+    {
+      "Key": "1c390248-9bf9-4171-9bcf-503775848290",
+      "Scene": "Login",
+      "Value": "191231231",
+      "State": "Removed"
+    },
+    {
+      "Key": "d69b8cac-f392-482d-b775-c25e7aba600c",
+      "Scene": "Login",
+      "Value": "V6.6.6\nBV66",
+      "State": "Removed"
+    },
+    {
+      "Key": "793784b9-0e98-407b-8e8c-9edae7fb9f1f",
+      "Scene": "Login",
+      "Value": "Login",
+      "State": "Removed"
+    },
+    {
+      "Key": "13b67336-b528-4876-bbfb-7554c3367f6b",
+      "Scene": "Login",
+      "Value": "YES",
+      "State": "Removed"
+    },
+    {
+      "Key": "4de763bf-f9ee-443f-b1b1-05179b9603f1",
+      "Scene": "Login",
+      "Value": "NO",
+      "State": "Removed"
+    },
+    {
+      "Key": "dd05af72-c328-4dca-8fa2-b81d86558895",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Added"
+    },
+    {
+      "Key": "0a7b755d-2a5a-409b-800c-36e7b75f8c51",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Added"
+    },
+    {
+      "Key": "3465d504-0b72-4c17-82aa-dff11a156351",
+      "Scene": "Login",
+      "Value": "visual aperture: 1.0",
+      "State": "Added"
+    },
+    {
+      "Key": "ee6eccc2-d251-40e6-bf11-454377a6876b",
+      "Scene": "Login",
+      "Value": "Microphone",
+      "State": "Added"
+    },
+    {
+      "Key": "b6e17976-6da4-42d6-b9f6-f46efc8a739a",
+      "Scene": "Login",
+      "Value": ">",
+      "State": "Added"
+    },
+    {
+      "Key": "337411fa-f034-4678-ad25-5690f48a9051",
+      "Scene": "Login",
+      "Value": "<",
+      "State": "Added"
+    },
+    {
+      "Key": "9cfd4875-e5f8-49e3-a916-b7c719035f9f",
+      "Scene": "Login",
+      "Value": "visual aperture: 1",
+      "State": "Added"
+    },
+    {
+      "Key": "e1ea7047-edcb-4953-badb-d12940729d5a",
+      "Scene": "Login",
+      "Value": "Microphone",
+      "State": "Added"
+    },
+    {
+      "Key": "670b6ccb-9fb4-4255-a40e-b9123298de1d",
+      "Scene": "Login",
+      "Value": "Turn",
+      "State": "Added"
+    },
+    {
+      "Key": "def54992-ee21-4436-ba3c-c21f3a62602a",
+      "Scene": "Login",
+      "Value": "Teleport",
+      "State": "Added"
+    },
+    {
+      "Key": "e250e59c-e1d9-4d1c-b804-069678ccd3f7",
+      "Scene": "Login",
+      "Value": "Nickname",
+      "State": "Added"
+    },
+    {
+      "Key": "e8053aab-31e5-4257-b95b-70ee1aeff9ca",
+      "Scene": "Login",
+      "Value": "Is this your RUT/DNI?",
+      "State": "Added"
+    },
+    {
+      "Key": "9f06e2ec-50aa-4ce3-8863-02200e5b5bd9",
+      "Scene": "Login",
+      "Value": "File submission",
+      "State": "Added"
+    },
+    {
+      "Key": "ff025c09-36a2-46cb-bcdf-548345cfa1be",
+      "Scene": "Login",
+      "Value": "-",
+      "State": "Added"
+    },
+    {
+      "Key": "c7208db3-5702-45f7-a0c5-262bc9f657f5",
+      "Scene": "Login",
+      "Value": "K",
+      "State": "Added"
+    },
+    {
+      "Key": "40828162-3610-47bb-9985-d207b818e3f1",
+      "Scene": "Login",
+      "Value": "Send pending",
+      "State": "Added"
+    },
+    {
+      "Key": "ebd05af7-594c-4cfb-87b1-9bec5468c628",
+      "Scene": "Login",
+      "Value": "Lorem ipsum",
+      "State": "Added"
+    },
+    {
+      "Key": "59571611-bc4b-4db7-9676-7490f59001e2",
+      "Scene": "Login",
+      "Value": "0-9",
+      "State": "Added"
+    },
+    {
+      "Key": "5cbec015-6492-48aa-aed3-830bae7d7778",
+      "Scene": "Login",
+      "Value": "Enter your RUT to start",
+      "State": "Added"
+    },
+    {
+      "Key": "a66f4d0d-d6d6-46b7-9478-dc375823cc18",
+      "Scene": "Login",
+      "Value": "191231231",
+      "State": "Added"
+    },
+    {
+      "Key": "ce5b9345-0681-412c-8b30-2c2156242dac",
+      "Scene": "Login",
+      "Value": "V6.6.6\nBV66",
+      "State": "Added"
+    },
+    {
+      "Key": "22ce5bb9-fa0e-42f9-a783-ce34992ecf89",
       "Scene": "Login",
       "Value": "Login",
       "State": "Added"
     },
     {
-      "Key": "3a1db8ae-7d59-40e9-9d0e-398383c24201",
+      "Key": "2cb1a1c0-b62a-410d-8872-a4b6b1c91a9d",
       "Scene": "Login",
-      "Value": "Enter",
+      "Value": "YES",
       "State": "Added"
     },
     {
-      "Key": "570e4b54-e814-46a3-9b9a-b75ca60a0a3b",
+      "Key": "2deae31f-a051-4806-8612-58640f9a2310",
       "Scene": "Login",
-      "Value": "Email",
-      "State": "Added"
-    },
-    {
-      "Key": "a93b4ebd-c95d-4f18-9cc4-dacde8c1fdb9",
-      "Scene": "Login",
-      "Value": "Password",
-      "State": "Added"
-    },
-    {
-      "Key": "9a9d94c4-145e-4c23-9f66-9f17aeb4d787",
-      "Scene": "Login",
-      "Value": "Log in to your account",
-      "State": "Added"
-    },
-    {
-      "Key": "3f42e2ac-4f92-4cdd-b2e9-cc33ddf52bf6",
-      "Scene": "Login",
-      "Value": "Create an account",
-      "State": "Added"
-    },
-    {
-      "Key": "57e33b1e-93c6-41aa-95d4-c6715ae1a51b",
-      "Scene": "Login",
-      "Value": "Forgot your password?",
+      "Value": "NO",
       "State": "Added"
     }
-  ]
+  ],
+  "name": "",
+  "hideFlags": 0
 }
