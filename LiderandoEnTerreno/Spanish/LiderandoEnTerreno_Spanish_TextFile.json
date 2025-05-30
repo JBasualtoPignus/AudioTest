@@ -1,464 +1,229 @@
 {
   "data": [
     {
-      "Key": "0ec38c74-0171-4e15-91ca-fb38eef48ff1",
+      "Key": "a7e631fe-d97e-469d-a17b-77cce4782467",
       "Scene": "Login",
       "Value": [
         ">"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "b2f79e0d-f797-4a68-b697-e234b762a427",
+      "Key": "e0ae2857-a42f-4fd0-bc1d-adfe4d39bcba",
       "Scene": "Login",
       "Value": [
         "<"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "8d7ddc32-8008-4853-a6c3-46f118f2f238",
+      "Key": "8dfa49e8-d777-4b37-9aa8-0db04b6d156a",
       "Scene": "Login",
       "Value": [
         "apertura visual: 1.0"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "83cb1de4-fa90-449b-8173-3135b1e27c3e",
+      "Key": "3ac86748-2efc-4a7a-9e13-fd54bb86e0da",
       "Scene": "Login",
       "Value": [
         "Micrófono"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "9de7e88e-a6f5-4b16-8aec-d43481b11346",
+      "Key": "9471d76b-39b3-4641-b78c-de00afbd4df7",
       "Scene": "Login",
       "Value": [
         ">"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "2ee404f7-ab12-4631-92ad-9e8087a7565d",
+      "Key": "fa32d1ab-3393-4ff7-b1ae-f5e918b63707",
       "Scene": "Login",
       "Value": [
         "<"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "bd855c62-804e-443c-800c-663838b138c6",
+      "Key": "589e28ef-5fc5-48f4-92e4-69e578b94afd",
       "Scene": "Login",
       "Value": [
         "apertura visual: 1"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "dee2ac0e-a418-4b1c-b05d-090e3f3f35cb",
+      "Key": "b3ca0a16-0b4d-4d3d-b74b-12502600ce19",
       "Scene": "Login",
       "Value": [
         "Micrófono"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "61f65357-d436-471f-9efd-b076d43a162c",
+      "Key": "9c2349b3-db58-4061-b759-04d9bf94d20a",
       "Scene": "Login",
       "Value": [
         "Turn"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "2c764449-81b1-43b7-9801-a00e66ca5544",
+      "Key": "f14baf16-04fb-4019-b8c6-e844c085c235",
       "Scene": "Login",
       "Value": [
         "Teleport"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "3abf2abe-58ce-48dd-b9fb-1a8ffddafb7b",
+      "Key": "9450ef42-49a9-4dbc-89bd-9cf39e6f0263",
       "Scene": "Login",
       "Value": [
         "Nickname"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "29b4c76a-1a17-4744-8278-0a7b811e2fc9",
+      "Key": "5f175f4f-e9b0-47d7-a41a-5d4f6375c121",
       "Scene": "Login",
       "Value": [
         "¿Este es tu RUT/DNI?"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "37695bfd-70d2-4a8c-9b4d-60594f11ac3b",
+      "Key": "3e28bf8f-23c1-44cc-8929-5c50af79f218",
       "Scene": "Login",
       "Value": [
         "Envio de archivos"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "867b1fa6-8510-4f27-b757-03deb213f65c",
+      "Key": "0c4fa29a-24b5-4fbe-a1a3-10b9306c281d",
       "Scene": "Login",
       "Value": [
         "-"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "abfa410f-b829-4b3c-9e9c-ac54e540954d",
+      "Key": "dcf5326d-33ef-43c5-bc44-ae17a77e8eb1",
       "Scene": "Login",
       "Value": [
         "K"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "79c236f1-f43b-43c7-a704-61c308101e77",
+      "Key": "b2e8892c-f365-44a7-ab59-6d02d8c9dc40",
       "Scene": "Login",
       "Value": [
         "Enviar pendientes"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "67edceb0-ff6b-48b7-9d4c-0720d048f8da",
+      "Key": "1ade7f8d-95c1-40f1-aee2-850a2319303e",
       "Scene": "Login",
       "Value": [
         "Lorem ipsum"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "26475eb1-a5e5-43bb-9855-41b3fcb28785",
+      "Key": "e92e76ee-8e38-4dd5-b2a5-8037bda3bb1d",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "82b812e1-ec1a-4d7c-9e24-f9efc60796ef",
       "Scene": "Login",
       "Value": [
         "0-9"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "ba080d81-733d-4c4c-a315-4870e30d1714",
+      "Key": "4046065c-ac3b-4976-bd69-272ebfeb569e",
       "Scene": "Login",
       "Value": [
         "Ingresa tu rut para comenzar",
         "Hola"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "6b75db2f-48fe-4779-92b1-624ec926a735",
+      "Key": "31408521-6017-4bfb-971f-117f1152b506",
       "Scene": "Login",
       "Value": [
         "191231231"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "f9e5e745-afdb-4ece-9984-0ff636032126",
+      "Key": "f8964e97-5967-4710-942c-3ef89f9bb484",
       "Scene": "Login",
       "Value": [
         "V6.6.6\nBV66"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "550953a9-0a97-4f58-9c7b-84407af89e0e",
+      "Key": "f2b05f1d-8916-469e-8eba-0f6afd58044b",
       "Scene": "Login",
       "Value": [
         "Ingresar"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "72ecacce-73cb-43fc-b27d-298f94f2bc57",
+      "Key": "ee9a9f7a-7432-4c75-974d-d16874177f1a",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4295156b-7fd3-4790-828d-cd3774193dbe",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "bd0c71c2-7fcd-42e4-8dc5-b47fa60ac977",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "aa126417-0dc7-43b5-b60e-1383473ee946",
       "Scene": "Login",
       "Value": [
         "SI"
       ],
-      "State": "Removed"
+      "State": "Added"
     },
     {
-      "Key": "f58d9d60-39a1-46fb-862f-6b96517321a7",
+      "Key": "3a4a35dc-f32e-4dda-8cdc-4ab16474c7bf",
       "Scene": "Login",
       "Value": [
         "NO"
       ],
-      "State": "Removed"
-    },
-    {
-      "Key": "4d2bb8b6-5320-4d54-83b6-8ae660d1b8c5",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Removed"
-    },
-    {
-      "Key": "42fc6abb-5ce5-4677-a2ad-f37fc44e64c2",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Removed"
-    },
-    {
-      "Key": "a8b284cd-a1fe-478c-810a-d14aadb31a95",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Removed"
-    },
-    {
-      "Key": "ac7b624d-7d65-4ce3-af9a-c4e6bb633eac",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Removed"
-    },
-    {
-      "Key": "aea1e024-c116-4df5-a189-bf6bca611196",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Removed"
-    },
-    {
-      "Key": "77d95118-0c52-4ff6-894d-fa456e6e69a8",
-      "Scene": "Login",
-      "Value": [
-        ">"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "4830edef-b871-48ec-851f-572d838983c5",
-      "Scene": "Login",
-      "Value": [
-        "<"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "aef1a1e7-3ba1-4c36-89f0-0e1c07fa7856",
-      "Scene": "Login",
-      "Value": [
-        "apertura visual: 1.0"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "1a5991eb-067e-44d8-a13d-fe4f23628daa",
-      "Scene": "Login",
-      "Value": [
-        "Micrófono"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "749ffc30-f293-423f-a345-e35d94ac9a69",
-      "Scene": "Login",
-      "Value": [
-        ">"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "72c1c126-df22-48e2-b5c1-fdc762ed8f1d",
-      "Scene": "Login",
-      "Value": [
-        "<"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "b530bf35-1c69-42a5-be97-36d2f75d693b",
-      "Scene": "Login",
-      "Value": [
-        "apertura visual: 1"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "399c0432-3736-4e78-8d16-40848b34b60c",
-      "Scene": "Login",
-      "Value": [
-        "Micrófono"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "3efa6a3c-ebaf-4a1b-9aca-6233d1964a85",
-      "Scene": "Login",
-      "Value": [
-        "Turn"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "72abe637-2d1e-4a1f-97f4-375559c3f199",
-      "Scene": "Login",
-      "Value": [
-        "Teleport"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "30a5a3d6-6f31-469d-b7ca-cafe4a2ccb83",
-      "Scene": "Login",
-      "Value": [
-        "Nickname"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "9d87b1ff-baa2-4575-bc2b-4a78e8ac8146",
-      "Scene": "Login",
-      "Value": [
-        "¿Este es tu RUT/DNI?"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "0e067c05-dc22-49c4-bf1c-3bdd6c60a698",
-      "Scene": "Login",
-      "Value": [
-        "Envio de archivos"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "f71bc9ad-abf2-4329-a913-2f63e2effe27",
-      "Scene": "Login",
-      "Value": [
-        "-"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "6b8dea36-a736-48ff-8a4f-fbc1d81e1369",
-      "Scene": "Login",
-      "Value": [
-        "K"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "c909306a-8d07-4a94-a076-c429833f56a7",
-      "Scene": "Login",
-      "Value": [
-        "Enviar pendientes"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "467246f5-8a7f-4131-9afe-36c5acebbb95",
-      "Scene": "Login",
-      "Value": [
-        "Lorem ipsum"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "9a04a67c-f259-455d-9b03-2195a55648a7",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "412fe975-44ae-49dd-928d-390e0945fb13",
-      "Scene": "Login",
-      "Value": [
-        "0-9"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "29e85aaf-e1fa-473d-987a-552d5076cb57",
-      "Scene": "Login",
-      "Value": [
-        "Ingresa tu rut para comenzar"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "477799a9-73a4-4b0f-9021-68f37abd3a98",
-      "Scene": "Login",
-      "Value": [
-        "191231231",
-        "502"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "23d42eda-76f2-4e4a-8c4d-54d96c889015",
-      "Scene": "Login",
-      "Value": [
-        "V6.6.6\nBV66"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "ee6431b0-a254-4ee9-9bc1-5515b21a3120",
-      "Scene": "Login",
-      "Value": [
-        "Ingresar"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "a5ed7376-fd73-47b4-b3af-c9cb4197022d",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "22815d1c-4d58-4336-a0ea-50fb7d675a49",
-      "Scene": "Login",
-      "Value": [
-        ""
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "fe7f2210-8a5b-457c-81c6-150750ef2826",
-      "Scene": "Login",
-      "Value": [
-        "",
-        "Conectando al servidor...",
-        "Error: HTTP/1.1 403 Forbidden"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "0dfa5611-1056-4987-ba18-acdd05017860",
-      "Scene": "Login",
-      "Value": [
-        "SI"
-      ],
-      "State": "Updated"
-    },
-    {
-      "Key": "39bbab69-d862-49ee-8235-0929478e474e",
-      "Scene": "Login",
-      "Value": [
-        "NO"
-      ],
-      "State": "Updated"
+      "State": "Added"
     }
   ],
   "name": "",
