@@ -6,7 +6,7 @@
       "Value": [
         ">"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "b2f79e0d-f797-4a68-b697-e234b762a427",
@@ -14,7 +14,7 @@
       "Value": [
         "<"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "8d7ddc32-8008-4853-a6c3-46f118f2f238",
@@ -22,7 +22,7 @@
       "Value": [
         "apertura visual: 1.0"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "83cb1de4-fa90-449b-8173-3135b1e27c3e",
@@ -30,7 +30,7 @@
       "Value": [
         "Micrófono"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "9de7e88e-a6f5-4b16-8aec-d43481b11346",
@@ -38,7 +38,7 @@
       "Value": [
         ">"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "2ee404f7-ab12-4631-92ad-9e8087a7565d",
@@ -46,7 +46,7 @@
       "Value": [
         "<"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "bd855c62-804e-443c-800c-663838b138c6",
@@ -54,7 +54,7 @@
       "Value": [
         "apertura visual: 1"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "dee2ac0e-a418-4b1c-b05d-090e3f3f35cb",
@@ -62,7 +62,7 @@
       "Value": [
         "Micrófono"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "61f65357-d436-471f-9efd-b076d43a162c",
@@ -70,7 +70,7 @@
       "Value": [
         "Turn"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "2c764449-81b1-43b7-9801-a00e66ca5544",
@@ -78,7 +78,7 @@
       "Value": [
         "Teleport"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "3abf2abe-58ce-48dd-b9fb-1a8ffddafb7b",
@@ -86,7 +86,7 @@
       "Value": [
         "Nickname"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "29b4c76a-1a17-4744-8278-0a7b811e2fc9",
@@ -94,7 +94,7 @@
       "Value": [
         "¿Este es tu RUT/DNI?"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "37695bfd-70d2-4a8c-9b4d-60594f11ac3b",
@@ -102,7 +102,7 @@
       "Value": [
         "Envio de archivos"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "867b1fa6-8510-4f27-b757-03deb213f65c",
@@ -110,7 +110,7 @@
       "Value": [
         "-"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "abfa410f-b829-4b3c-9e9c-ac54e540954d",
@@ -118,7 +118,7 @@
       "Value": [
         "K"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "79c236f1-f43b-43c7-a704-61c308101e77",
@@ -126,7 +126,7 @@
       "Value": [
         "Enviar pendientes"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "67edceb0-ff6b-48b7-9d4c-0720d048f8da",
@@ -134,7 +134,7 @@
       "Value": [
         "Lorem ipsum"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "26475eb1-a5e5-43bb-9855-41b3fcb28785",
@@ -142,7 +142,7 @@
       "Value": [
         "0-9"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "ba080d81-733d-4c4c-a315-4870e30d1714",
@@ -151,7 +151,7 @@
         "Ingresa tu rut para comenzar",
         "Hola"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "6b75db2f-48fe-4779-92b1-624ec926a735",
@@ -159,7 +159,7 @@
       "Value": [
         "191231231"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "f9e5e745-afdb-4ece-9984-0ff636032126",
@@ -167,7 +167,7 @@
       "Value": [
         "V6.6.6\nBV66"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "550953a9-0a97-4f58-9c7b-84407af89e0e",
@@ -175,7 +175,7 @@
       "Value": [
         "Ingresar"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "72ecacce-73cb-43fc-b27d-298f94f2bc57",
@@ -183,7 +183,7 @@
       "Value": [
         "SI"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "f58d9d60-39a1-46fb-862f-6b96517321a7",
@@ -191,7 +191,7 @@
       "Value": [
         "NO"
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "4d2bb8b6-5320-4d54-83b6-8ae660d1b8c5",
@@ -199,7 +199,7 @@
       "Value": [
         ""
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "42fc6abb-5ce5-4677-a2ad-f37fc44e64c2",
@@ -207,7 +207,7 @@
       "Value": [
         ""
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "a8b284cd-a1fe-478c-810a-d14aadb31a95",
@@ -215,7 +215,7 @@
       "Value": [
         ""
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "ac7b624d-7d65-4ce3-af9a-c4e6bb633eac",
@@ -223,13 +223,240 @@
       "Value": [
         ""
       ],
-      "State": "Updated"
+      "State": "Removed"
     },
     {
       "Key": "aea1e024-c116-4df5-a189-bf6bca611196",
       "Scene": "Login",
       "Value": [
         ""
+      ],
+      "State": "Removed"
+    },
+    {
+      "Key": "77d95118-0c52-4ff6-894d-fa456e6e69a8",
+      "Scene": "Login",
+      "Value": [
+        ">"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "4830edef-b871-48ec-851f-572d838983c5",
+      "Scene": "Login",
+      "Value": [
+        "<"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "aef1a1e7-3ba1-4c36-89f0-0e1c07fa7856",
+      "Scene": "Login",
+      "Value": [
+        "apertura visual: 1.0"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "1a5991eb-067e-44d8-a13d-fe4f23628daa",
+      "Scene": "Login",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "749ffc30-f293-423f-a345-e35d94ac9a69",
+      "Scene": "Login",
+      "Value": [
+        ">"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "72c1c126-df22-48e2-b5c1-fdc762ed8f1d",
+      "Scene": "Login",
+      "Value": [
+        "<"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "b530bf35-1c69-42a5-be97-36d2f75d693b",
+      "Scene": "Login",
+      "Value": [
+        "apertura visual: 1"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "399c0432-3736-4e78-8d16-40848b34b60c",
+      "Scene": "Login",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "3efa6a3c-ebaf-4a1b-9aca-6233d1964a85",
+      "Scene": "Login",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "72abe637-2d1e-4a1f-97f4-375559c3f199",
+      "Scene": "Login",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "30a5a3d6-6f31-469d-b7ca-cafe4a2ccb83",
+      "Scene": "Login",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "9d87b1ff-baa2-4575-bc2b-4a78e8ac8146",
+      "Scene": "Login",
+      "Value": [
+        "¿Este es tu RUT/DNI?"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "0e067c05-dc22-49c4-bf1c-3bdd6c60a698",
+      "Scene": "Login",
+      "Value": [
+        "Envio de archivos"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "f71bc9ad-abf2-4329-a913-2f63e2effe27",
+      "Scene": "Login",
+      "Value": [
+        "-"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "6b8dea36-a736-48ff-8a4f-fbc1d81e1369",
+      "Scene": "Login",
+      "Value": [
+        "K"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "c909306a-8d07-4a94-a076-c429833f56a7",
+      "Scene": "Login",
+      "Value": [
+        "Enviar pendientes"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "467246f5-8a7f-4131-9afe-36c5acebbb95",
+      "Scene": "Login",
+      "Value": [
+        "Lorem ipsum"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "9a04a67c-f259-455d-9b03-2195a55648a7",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "412fe975-44ae-49dd-928d-390e0945fb13",
+      "Scene": "Login",
+      "Value": [
+        "0-9"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "29e85aaf-e1fa-473d-987a-552d5076cb57",
+      "Scene": "Login",
+      "Value": [
+        "Ingresa tu rut para comenzar"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "477799a9-73a4-4b0f-9021-68f37abd3a98",
+      "Scene": "Login",
+      "Value": [
+        "191231231",
+        "502"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "23d42eda-76f2-4e4a-8c4d-54d96c889015",
+      "Scene": "Login",
+      "Value": [
+        "V6.6.6\nBV66"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "ee6431b0-a254-4ee9-9bc1-5515b21a3120",
+      "Scene": "Login",
+      "Value": [
+        "Ingresar"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "a5ed7376-fd73-47b4-b3af-c9cb4197022d",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "22815d1c-4d58-4336-a0ea-50fb7d675a49",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "fe7f2210-8a5b-457c-81c6-150750ef2826",
+      "Scene": "Login",
+      "Value": [
+        "",
+        "Conectando al servidor...",
+        "Error: HTTP/1.1 403 Forbidden"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "0dfa5611-1056-4987-ba18-acdd05017860",
+      "Scene": "Login",
+      "Value": [
+        "SI"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "39bbab69-d862-49ee-8235-0929478e474e",
+      "Scene": "Login",
+      "Value": [
+        "NO"
       ],
       "State": "Updated"
     }
