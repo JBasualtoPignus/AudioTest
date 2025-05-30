@@ -148,7 +148,7 @@
       "Key": "ba080d81-733d-4c4c-a315-4870e30d1714",
       "Scene": "Login",
       "Value": [
-        "Enter your RUT",
+        "Enter Your RUT",
         "Hello"
       ],
       "State": "Updated"
@@ -199,7 +199,7 @@
       "Value": [
         ""
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "42fc6abb-5ce5-4677-a2ad-f37fc44e64c2",
@@ -207,7 +207,7 @@
       "Value": [
         ""
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "a8b284cd-a1fe-478c-810a-d14aadb31a95",
@@ -215,7 +215,7 @@
       "Value": [
         ""
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "ac7b624d-7d65-4ce3-af9a-c4e6bb633eac",
@@ -223,7 +223,7 @@
       "Value": [
         ""
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "aea1e024-c116-4df5-a189-bf6bca611196",
@@ -231,7 +231,7 @@
       "Value": [
         ""
       ],
-      "State": "Added"
+      "State": "Updated"
     }
   ],
   "name": "",

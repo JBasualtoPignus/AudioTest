@@ -6,7 +6,7 @@
       "Value": [
         ">"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "b2f79e0d-f797-4a68-b697-e234b762a427",
@@ -14,7 +14,7 @@
       "Value": [
         "<"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "8d7ddc32-8008-4853-a6c3-46f118f2f238",
@@ -22,7 +22,7 @@
       "Value": [
         "apertura visual: 1.0"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "83cb1de4-fa90-449b-8173-3135b1e27c3e",
@@ -30,7 +30,7 @@
       "Value": [
         "Micrófono"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "9de7e88e-a6f5-4b16-8aec-d43481b11346",
@@ -38,7 +38,7 @@
       "Value": [
         ">"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "2ee404f7-ab12-4631-92ad-9e8087a7565d",
@@ -46,7 +46,7 @@
       "Value": [
         "<"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "bd855c62-804e-443c-800c-663838b138c6",
@@ -54,7 +54,7 @@
       "Value": [
         "apertura visual: 1"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "dee2ac0e-a418-4b1c-b05d-090e3f3f35cb",
@@ -62,7 +62,7 @@
       "Value": [
         "Micrófono"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "61f65357-d436-471f-9efd-b076d43a162c",
@@ -70,7 +70,7 @@
       "Value": [
         "Turn"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "2c764449-81b1-43b7-9801-a00e66ca5544",
@@ -78,7 +78,7 @@
       "Value": [
         "Teleport"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "3abf2abe-58ce-48dd-b9fb-1a8ffddafb7b",
@@ -86,7 +86,7 @@
       "Value": [
         "Nickname"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "29b4c76a-1a17-4744-8278-0a7b811e2fc9",
@@ -94,7 +94,7 @@
       "Value": [
         "¿Este es tu RUT/DNI?"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "37695bfd-70d2-4a8c-9b4d-60594f11ac3b",
@@ -102,7 +102,7 @@
       "Value": [
         "Envio de archivos"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "867b1fa6-8510-4f27-b757-03deb213f65c",
@@ -110,7 +110,7 @@
       "Value": [
         "-"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "abfa410f-b829-4b3c-9e9c-ac54e540954d",
@@ -118,7 +118,7 @@
       "Value": [
         "K"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "79c236f1-f43b-43c7-a704-61c308101e77",
@@ -126,7 +126,7 @@
       "Value": [
         "Enviar pendientes"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "67edceb0-ff6b-48b7-9d4c-0720d048f8da",
@@ -134,7 +134,7 @@
       "Value": [
         "Lorem ipsum"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "26475eb1-a5e5-43bb-9855-41b3fcb28785",
@@ -142,7 +142,7 @@
       "Value": [
         "0-9"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "ba080d81-733d-4c4c-a315-4870e30d1714",
@@ -151,7 +151,7 @@
         "Ingresa tu rut para comenzar",
         "Hola"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "6b75db2f-48fe-4779-92b1-624ec926a735",
@@ -159,7 +159,7 @@
       "Value": [
         "191231231"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "f9e5e745-afdb-4ece-9984-0ff636032126",
@@ -167,7 +167,7 @@
       "Value": [
         "V6.6.6\nBV66"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "550953a9-0a97-4f58-9c7b-84407af89e0e",
@@ -175,7 +175,7 @@
       "Value": [
         "Ingresar"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "72ecacce-73cb-43fc-b27d-298f94f2bc57",
@@ -183,7 +183,7 @@
       "Value": [
         "SI"
       ],
-      "State": "Added"
+      "State": "Updated"
     },
     {
       "Key": "f58d9d60-39a1-46fb-862f-6b96517321a7",
@@ -191,7 +191,47 @@
       "Value": [
         "NO"
       ],
-      "State": "Added"
+      "State": "Updated"
+    },
+    {
+      "Key": "4d2bb8b6-5320-4d54-83b6-8ae660d1b8c5",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "42fc6abb-5ce5-4677-a2ad-f37fc44e64c2",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "a8b284cd-a1fe-478c-810a-d14aadb31a95",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "ac7b624d-7d65-4ce3-af9a-c4e6bb633eac",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "aea1e024-c116-4df5-a189-bf6bca611196",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
     }
   ],
   "name": "",
