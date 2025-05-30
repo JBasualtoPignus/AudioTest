@@ -148,7 +148,8 @@
       "Key": "ba080d81-733d-4c4c-a315-4870e30d1714",
       "Scene": "Login",
       "Value": [
-        "Ingresa tu rut para comenzar"
+        "Ingresa tu rut para comenzar",
+        "Hola"
       ],
       "State": "Added"
     },
