@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "Key": "6a09e380-9a84-486c-af4d-ad888b95e24a",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Return to lobby"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "66c23335-052b-4fe4-9b12-a654288953fa",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "To start, press the “Start” button"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "07c48127-8f63-4b04-9a95-41aabe6c2089",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Hello, welcome",
+        "Today I will teach you the five golden rules of electrical work, I will explain each of the steps you must follow",
+        "To complete each golden rule you must perform the procedure on the circuit to your left. \r",
+        "Each time you finish a step, look at the screen again to hear the next instruction.\r",
+        "1. Disconnection of sources:\r\nFirst of all, it is important that you cut off any energy source that feeds the\r\nDevice to work on, and thus cancel its possible energy returns.",
+        "Today I will teach you the five golden rules of electrical work, I will explain each of the steps you must follow",
+        "To complete each golden rule you must perform the procedure on the circuit to your left. \r",
+        "Each time you finish a step, look at the screen again to hear the next instruction.\r",
+        "1. Disconnection of sources:\r\nFirst of all, it is important that you cut off any energy source that feeds the\r\nDevice to work on, and thus cancel its possible energy returns.",
+        "2.-Locking of the equipment to be intervened.\r\nTo ensure that the switch remains off, you must lock it with something\r\nThat prevents it from being turned on. Take the padlock on the table and use it to carry out this action",
+        "3.-Verify absence of voltage\r\nIn this step, you must use the voltage detector on the table to\r\nmake sure there is no electrical charge left in the circuits you will be working on",
+        "4.-Short-circuit and ground\r\nThis step is very important, connect the ground wires to the\r\nGrounding installation wires, thus ensuring the correct discharge of the elements and that they remain short-circuited",
+        "5.-Signage of the work area\r\nTo finish, you must signpost your entire work area, thus ensuring that unauthorized personnel do not enter. ",
+        "Excellent! Now you are an expert in the five golden electrical rules, we have an electrically safe working condition."
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "d3a0faa2-c921-4506-a123-f1c7dd6b91ed",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "OFF"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "f26f2458-b284-4a46-957a-f20a0bd51a0a",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "4b2dc892-70d1-4821-8e6a-4d3355b687aa",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Energy checker"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "99cac848-2b7e-45f7-9e3d-bcc10bb798e3",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Start"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "d73c06bb-a21c-4538-9859-806790a4781a",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Ground\ninstallation"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "dc0c7358-8340-4db2-9e5b-dcb8deb64102",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "ON"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "eb156583-a67c-4530-8af8-1ad1727a4a14",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Switch"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "f589505b-ba1c-4f8f-9175-fa0b735414a2",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Repeat"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "8e41dc4f-3838-4a56-98e0-b71480e0a269",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "Padlock\n"
+      ],
+      "State": "Updated"
+    }
+  ],
+  "name": "",
+  "hideFlags": 0
+}
