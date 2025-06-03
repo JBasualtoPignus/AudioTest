@@ -1,0 +1,1399 @@
+{
+  "data": [
+    {
+      "Key": "cf026d4f-0843-4cbf-872d-645c676d5bfb",
+      "Scene": "Preload",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "612fa752-6072-45d3-8ce5-cabf7bd923bf",
+      "Scene": "Preload",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "22d05b45-8959-4605-a2de-42e7e3a9859c",
+      "Scene": "Preload",
+      "Value": [
+        "apertura visual: 1.0"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "78d1796f-a1d3-4377-9d34-69a9772a2ebb",
+      "Scene": "Preload",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e41bedeb-5d33-415c-8df4-dd9a20a8dd89",
+      "Scene": "Preload",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "abecb5d5-1ae2-4936-8153-2f7784bc93ba",
+      "Scene": "Preload",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fbb66f96-57aa-4833-9570-7948c8066e5d",
+      "Scene": "Preload",
+      "Value": [
+        "apertura visual: 1"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3628214b-ef09-473f-8d08-1a292c59047e",
+      "Scene": "Preload",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "eaee3835-d527-4e2e-b39f-4d958cc1609d",
+      "Scene": "Preload",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1d8181b7-0e4f-43d0-ae53-1363292dd79b",
+      "Scene": "Preload",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2ba0aae0-fb95-4d31-b2b6-e03f2f1488e6",
+      "Scene": "Preload",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "23442c52-451b-4cb1-9252-df85ec59afc9",
+      "Scene": "Preload",
+      "Value": [
+        "Cargando escena..."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4fd70266-7869-4be9-bc66-f84cdc2a5e33",
+      "Scene": "Login",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0aed2658-ebdd-4bd9-ad05-a263d48abfa2",
+      "Scene": "Login",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0a4578b6-5089-44fa-831f-14124a87c3d8",
+      "Scene": "Login",
+      "Value": [
+        "apertura visual: 1.0"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "357d633b-05fc-4f5a-bfa2-9f145562ef44",
+      "Scene": "Login",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2900a66e-02f0-4518-a298-725b7a500bfb",
+      "Scene": "Login",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "bb4a1cce-e6fd-4dc2-8839-c289472ccb78",
+      "Scene": "Login",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a6599eef-a39b-4a3b-8e7c-20d665a0c6c1",
+      "Scene": "Login",
+      "Value": [
+        "apertura visual: 1"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a6631d19-5cc4-46d3-b338-575951698c57",
+      "Scene": "Login",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3efbe622-7aac-48d6-9034-dcf50c1ef46f",
+      "Scene": "Login",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9d27f6bc-f7fd-4cad-a228-26a34000c0e4",
+      "Scene": "Login",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2bccf417-c6fd-48f4-b549-51bfd486013a",
+      "Scene": "Login",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d7800e0b-54ab-4c94-8067-14342379f46b",
+      "Scene": "Login",
+      "Value": [
+        "¿Este es tu RUT/DNI?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "baf1f4b8-966f-4a1e-8359-fc317a8533dc",
+      "Scene": "Login",
+      "Value": [
+        "Envio de archivos"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "61ccba34-8965-4762-8cca-7e27b67173ea",
+      "Scene": "Login",
+      "Value": [
+        "-"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d7ffe948-000e-4a66-a6b7-89a56c71bc44",
+      "Scene": "Login",
+      "Value": [
+        "K"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "dea3f54e-5f85-485e-8dd2-57d6af3f32ba",
+      "Scene": "Login",
+      "Value": [
+        "Enviar pendientes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d1df2f70-1e4d-460c-a97f-a0c1c28c3131",
+      "Scene": "Login",
+      "Value": [
+        "Lorem ipsum"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d1271167-fe03-40a2-9cfb-8bb6458dfa9a",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6e6be521-1f48-47e0-8d00-d1f26cccbe30",
+      "Scene": "Login",
+      "Value": [
+        "0-9"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f6f123dd-d271-477c-97fc-bf6e2300da8e",
+      "Scene": "Login",
+      "Value": [
+        "Ingresa tu rut para comenzar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0f384014-40e9-452b-88c1-079114bcf944",
+      "Scene": "Login",
+      "Value": [
+        "191231231",
+        "502",
+        "502",
+        "502"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "941f6e41-a3f9-48c5-8c5a-27734e8ad19f",
+      "Scene": "Login",
+      "Value": [
+        "V6.6.6\nBV66"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "06109c98-558f-451f-b940-95ced6da6459",
+      "Scene": "Login",
+      "Value": [
+        "Ingresar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6da97e08-1f7b-41df-ba2f-fde4e3102d33",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "eec3da68-ab9d-425e-b139-a533420cb286",
+      "Scene": "Login",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "65bc805d-b153-4d7a-a032-b77cd3e97472",
+      "Scene": "Login",
+      "Value": [
+        "",
+        "Conectando al servidor...",
+        "Error: HTTP/1.1 403 Forbidden",
+        "Conectando al servidor...",
+        "Error: HTTP/1.1 403 Forbidden",
+        "Conectando al servidor...",
+        "Error: HTTP/1.1 403 Forbidden"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ab70c797-7d64-4427-a4fc-dbf740b35125",
+      "Scene": "Login",
+      "Value": [
+        "SI"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8bfd86d5-dd79-4605-83ab-2aadbd67bd45",
+      "Scene": "Login",
+      "Value": [
+        "NO"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a08779c7-945c-4610-9f26-6e5a23a9e3ab",
+      "Scene": "Menu",
+      "Value": [
+        "Blues"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1f4d1e22-55c6-41f3-a58a-5b6a4796e738",
+      "Scene": "Menu",
+      "Value": [
+        "Desierto"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "815772b7-6868-45cb-9d51-c2df0edc793c",
+      "Scene": "Menu",
+      "Value": [
+        "Room selection"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4f34ed17-c155-43dc-a469-66923e3b15f3",
+      "Scene": "Menu",
+      "Value": [
+        "Elige una opción"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "68d754e8-e187-45cb-8e89-81cd9f13ca8c",
+      "Scene": "Menu",
+      "Value": [
+        "Bienvenido a"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a779241c-dd57-4235-ac74-5d9d4dd8cb6a",
+      "Scene": "Menu",
+      "Value": [
+        "Personaliza tu experiencia:"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7320189b-1433-4b0e-b8c3-558094b5af6d",
+      "Scene": "Menu",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3a4326ca-eeae-4bd9-aaaf-c222605c890a",
+      "Scene": "Menu",
+      "Value": [
+        "Lorem Ipsum dolor sim atem"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1199eea3-8ad0-454f-be2e-07361d5e8cab",
+      "Scene": "Menu",
+      "Value": [
+        "¿Acepta el uso de sus datos conforme a estas condiciones?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5591ee85-3465-4ce1-a778-32fa4a4caf99",
+      "Scene": "Menu",
+      "Value": [
+        "Iniciar el recorrido"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "250b2a98-8563-4b1d-98a1-f3b8bce907fa",
+      "Scene": "Menu",
+      "Value": [
+        "Pop"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0fb35ada-c406-4265-b2d1-55638ea0f4ff",
+      "Scene": "Menu",
+      "Value": [
+        "Evaluación"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ec35765b-f09d-4d97-957a-39e5b3fdd593",
+      "Scene": "Menu",
+      "Value": [
+        "Desconectar online"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0a7f604d-5310-4bf9-a1cf-a55b390442b2",
+      "Scene": "Menu",
+      "Value": [
+        "Evaluación"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b36563a8-88f4-464a-8904-a387c0cfa24d",
+      "Scene": "Menu",
+      "Value": [
+        "Salir de la sala"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ba09238e-9cb0-4233-8736-78b4c2d06f5e",
+      "Scene": "Menu",
+      "Value": [
+        "Comenzar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "858f2fab-b344-4188-b905-f0bad53b4cb7",
+      "Scene": "Menu",
+      "Value": [
+        "Room: \"Lorem ipsum\""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7a74ddeb-5366-417a-92b7-af34dad2f58e",
+      "Scene": "Menu",
+      "Value": [
+        "Elige tu estilo de decoración"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a38b6e88-05aa-4e50-b9f1-fc74838cd9a8",
+      "Scene": "Menu",
+      "Value": [
+        "Deco Mujer Soltera"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "cf7c82ef-eb3c-4e89-b9b4-efbf201a7ed5",
+      "Scene": "Menu",
+      "Value": [
+        "Soul"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "68cf8784-8147-4c76-b32c-15a05befba68",
+      "Scene": "Menu",
+      "Value": [
+        "Rural"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "822fc7f4-72d8-4ebd-846f-4073ecb9f536",
+      "Scene": "Menu",
+      "Value": [
+        "Metaverso"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0d0e8cc8-5027-4fee-8520-5813427cf7e3",
+      "Scene": "Menu",
+      "Value": [
+        "​"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c86fa8b0-04dc-4512-862a-b37749e4876a",
+      "Scene": "Menu",
+      "Value": [
+        "Conectar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "017083bc-11eb-4dad-86c3-e9c3583c97c2",
+      "Scene": "Menu",
+      "Value": [
+        "Tutorial"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2d9bd440-d94b-496b-8d62-9054d0dbbfce",
+      "Scene": "Menu",
+      "Value": [
+        "Aceptar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8a858def-c0e0-4969-8b0e-c6a6e35da25c",
+      "Scene": "Menu",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d62a988c-a958-42ea-8ee8-ba2c7203fc55",
+      "Scene": "Menu",
+      "Value": [
+        "Si"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fd8c6b09-7b92-484d-979e-1c43ff94347a",
+      "Scene": "Menu",
+      "Value": [
+        "Cerrar sesión"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c4b95796-4fb5-48c8-a57d-175bce6ab88b",
+      "Scene": "Menu",
+      "Value": [
+        "Consentimiento Informado"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f13e0088-634b-4671-9821-466fcd5104bb",
+      "Scene": "Menu",
+      "Value": [
+        "Si"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2cf2ef34-f5fc-4dbd-9d04-71faec450e44",
+      "Scene": "Menu",
+      "Value": [
+        "Tutorial"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5978a5b6-0dbb-415d-87bd-e6c9ff52de49",
+      "Scene": "Menu",
+      "Value": [
+        "¿Es tu primera vez utilizando la aplicación?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4c3ad3c2-0030-4652-ae0e-5e2fa4f4152c",
+      "Scene": "Menu",
+      "Value": [
+        "Al ingresar su DNI/RUT, usted autoriza a PIGNUS a recolectar y tratar sus datos personales con el único fin de evaluar variables conductuales durante la simulación de realidad virtual. El tratamiento de sus datos se realizará de acuerdo con lo establecido en nuestra Política de Privacidad y Protección de Datos Personales, garantizando la seguridad, confidencialidad y uso exclusivo para esta finalidad.\nSus datos serán conservados durante el tiempo estrictamente necesario (hasta 360 días) y usted podrá ejercer, en forma gratuita, los derechos de acceso, rectificación, supresión y oposición, para esto puede contactarnos directamente con el responsable del área de Tecnología Ricardo Pizarro.\nSi no está de acuerdo con el tratamiento de sus datos, podrá optar por no continuar con la simulación."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f6ba6533-0aca-4649-9853-43f772e795fc",
+      "Scene": "Menu",
+      "Value": [
+        "Selecciona el tipo de ambiente en el que quieres conducir"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2e4f342e-d877-4c32-879e-af68ef744c77",
+      "Scene": "Menu",
+      "Value": [
+        "Cerrar sesión"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d6a60f89-dae2-4b5b-9c49-a89d3d1e4c97",
+      "Scene": "Menu",
+      "Value": [
+        "Operando MP"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7a0ad9f3-21b8-4581-9192-ce4372f2745a",
+      "Scene": "Menu",
+      "Value": [
+        "Selecciona tu ambiente musical"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4b5a8a15-1048-47d8-bb72-1054713f2ea0",
+      "Scene": "Menu",
+      "Value": [
+        "¿Es tu primera vez utilizando la aplicación?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b2fa9ac7-bf2b-4e06-8507-d55709c32d5c",
+      "Scene": "Menu",
+      "Value": [
+        "Button"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3c0488fa-9758-42ce-b32a-05c7a44b0e2a",
+      "Scene": "Menu",
+      "Value": [
+        "Nickname:"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "67f2e52f-c68c-4267-82e4-b54ec32e43e2",
+      "Scene": "Menu",
+      "Value": [
+        "Cinco reglas de oro MP"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "21a8dfc7-a807-46f8-a64f-3fedb7c11612",
+      "Scene": "Menu",
+      "Value": [
+        "Rechazar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b38f180e-5d78-4fea-ad3c-bfe576aebb6f",
+      "Scene": "Menu",
+      "Value": [
+        "Debes ingresar un nickname, que será el nombre que verá reflejado tu Avatar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fbbb0dbe-e95d-49a8-aa60-365002b1404e",
+      "Scene": "Menu",
+      "Value": [
+        "Deco Airbnb"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9f2a3d4c-da8f-4b50-b6df-48a11d0e7b25",
+      "Scene": "Menu",
+      "Value": [
+        "Volver"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "522541d3-462f-4b7c-9197-2d48e4a191a5",
+      "Scene": "Menu",
+      "Value": [
+        "Liderando en terreno"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2ad21053-64da-42ea-a0f1-ac385d376ddc",
+      "Scene": "Menu",
+      "Value": [
+        "Deco Familiar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "87fc34cd-3b9a-4196-94ab-890e8579b4a3",
+      "Scene": "Menu",
+      "Value": [
+        "Antes de comenzar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "677f62df-72bc-4716-84ca-eb6ccd15e2d1",
+      "Scene": "Menu",
+      "Value": [
+        "Bodega MP"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "346d24e1-b1d1-4037-bf79-f372580183f2",
+      "Scene": "Menu",
+      "Value": [
+        "99/99"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5add6705-6287-4830-85dc-1b10b98af217",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "055e9dea-65e8-4758-8dcd-a5d126dbcfb2",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b874b79f-bf58-4df5-a1ee-0ab31fdfbf22",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "apertura visual: 1.0"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d8636709-30b0-4536-98b9-287dd0ca0a5f",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "216af5d2-0226-47ea-91b4-eefc41170e55",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "dcc78934-2db4-4c79-a243-46fbddb4cc1b",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "93190d39-1d7c-4482-bbb2-ac9119b71fc4",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "apertura visual: 1"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9b3c8462-0461-44e2-804d-3983b1c63182",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Micrófono"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "61da50e2-8cb1-43e7-97e1-473437c7e36d",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1085ac82-20f9-4338-ae91-8ac723322e68",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d7556bcc-4ea4-47ad-830f-2d576075f408",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e34d9f49-2c11-4776-8cc6-2018263fe5d9",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Lorem Ipsum",
+        "Primeros pasos"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "debe4c2a-875e-4b9e-bb3d-56286e7b1458",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Ir a evaluación"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f2ab292c-4e71-4d0f-a07f-9dd504e16c66",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Reiniciar tutorial"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "dcff6ca2-0bb7-4fe2-87d4-abcc3efd8410",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "El botón de la derecha cerrará la aplicación"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "629bf397-e39e-453d-af48-c20f53156154",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "En cualquier momento puedes volver a consultar esta instrucción\r\nen la pantalla que está sobre la mesa"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1a607c1e-8309-48b9-b620-d3f6a27d5d0b",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Para completar el tutorial he dejado dos botones disponibles: "
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "89f1ce11-1d78-4baa-b6b2-bc9c9e7d4665",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "El botón de la izquierda te permitirá repetir la experiencia del tutorial."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "343543e8-db7c-4c38-84c7-53128b87ec61",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "El botón de la derecha te llevará a tu proceso de evaluación.\n¡Éxito!"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1e5e6e59-9a41-4f1c-a5b2-216ede31a6e6",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Reiniciar tutorial"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fa40e32a-3094-469b-b840-67c34fa9beb9",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "El botón de la izquierda te permitirá repetir la experiencia del tutorial."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e4615e73-0831-4ef5-8b69-2411ad46db29",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Selecciona los tickets apuntando con tu mando y presionando una vez el gatillo"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1b4f8be5-401c-4aa7-a195-ddba1867d6f2",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Repetir"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6faec21f-9fcc-480d-885d-ac8cff8c8d55",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "",
+        "Te damos la bienvenida a este tutorial, hoy te enseñaré a convertirte en una persona experta en el uso de la realidad virtual",
+        "Para comenzar, voy a mostrarte cómo usar los controles en tus manos, ¿listo?\r",
+        "Empezaremos con la mano derecha. Fíjate bien en el botón cerca de tu dedo índice, está brillando. Presiónalo.\r",
+        "Ahora, haz lo mismo con el dedo índice de tu mano izquierda.\r",
+        "Excelente, estos botones se llaman “gatillos”. Estos servirán para interactuar con lo que te rodea.\r",
+        "Ahora presiona los dos gatillos al mismo tiempo\r",
+        "¡Perfecto! Vamos a explorar más botones.\r",
+        "En tu mano derecha, verás otro botón brillando. Usa tu dedo medio para presionarlo.\r",
+        "Genial, ahora haz lo mismo con el dedo medio de tu mano izquierda\r",
+        "Perfecto. Estos botones son llamados “botones de agarre”. Ellos te ayudarán a agarrar cosas en el mundo virtual.\r",
+        "Ahora presiona los dos botones de agarre al mismo tiempo\r",
+        "¡Muy bien! Estás aprendiendo rápido.\r",
+        "Aquí te enseñaré cómo interactuar con pantallas\r",
+        "A continuación te dejaré tres tickets en la pantalla que debes seleccionar. Si lo logras, habrás completado este desafío\r",
+        "¡Excelente, eres genial para estas cosas!\r",
+        "Ahora te enseñaré a desplazarte por tu entorno\r",
+        "Busca alrededor dentro de la bodega una zona de color azul, apunta con tu control derecho sobre él y presiona el botón de gatillo en tu dedo índice para activarlo. Serás llevado instantáneamente al nuevo lugar. Recuerda que estas en una simulación de 360 grados por lo que puedes girarte completamente para buscar la zona.\r",
+        "¡Excelente! Ahora inténtalo nuevamente. Busca la nueva zona de color azul, apuntalo con tu control derecho y presiona el botón de gatillo\r",
+        "Genial, hazlo nuevamente con la nueva zona de color azul, apuntala con tu mano derecha y presiona el gatillo\r",
+        "Perfecto, vuelve al inicio para continuar. Apunta tu control derecho al zona de color azul y presiona el gatillo\r",
+        "¡Listo! Ahora dominas el desplazamiento entre diferentes puntos en realidad virtual\r",
+        "Veo que has completado todos los módulos de este tutorial ¡Eres un experto en realidad virtual!\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "646022eb-a72a-4fe7-889a-80c811881db3",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Cerrar aplicación"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d84c76d3-ab65-448d-bbc0-f4eb6f254233",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Para completar el tutorial he dejado dos botones disponibles: "
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ff1d6e51-5cdd-42f1-9f3b-aa668f41a0d9",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b4500c94-3c2e-4c61-88ee-77994be641e5",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "En cualquier momento puedes volver a consultar esta instrucción\r\nen la pantalla que está sobre la mesa"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "82c91429-5b0e-47cf-8587-a54bdc65810b",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Continuar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c5e71fb4-d080-4527-afce-0bcbb8823bca",
+      "Scene": "PrimerosPasos",
+      "Value": [
+        "Hemos terminado el tutorial para desplazarte, te ha quedado claro o necesitas repetir las instrucciones?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b6f46162-b9d0-4ce7-b28b-23b8e016a24f",
+      "Scene": "Driving",
+      "Value": [
+        "99 seg"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ab4be4a7-95f1-40da-9639-ac902d51a0da",
+      "Scene": "Driving",
+      "Value": [
+        "Arrancar vehículo"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c4434a16-fa82-4d51-8a76-337d31642234",
+      "Scene": "Driving",
+      "Value": [
+        "Salir del auto"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9afa6999-9135-49fd-8eb8-9385f72cb26a",
+      "Scene": "Driving",
+      "Value": [
+        "Es apto para conducir?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "37e049a0-30d3-483b-be88-9313edcf6e28",
+      "Scene": "Driving",
+      "Value": [
+        "Situaciones correctas"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d49c493b-1141-4a21-876c-a2a28ac7caa9",
+      "Scene": "Driving",
+      "Value": [
+        "Subiendo resultados al servidor...",
+        "Enviando métricas al servidor",
+        "Métricas enviadas correctamente"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "bd7d5637-a003-4884-a9ae-e11b88d431dc",
+      "Scene": "Driving",
+      "Value": [
+        "LLAMADA URGENTE"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f4a335f5-1bcd-460e-a336-bc6a341ada11",
+      "Scene": "Driving",
+      "Value": [
+        "99 seg"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fc50940b-a37e-4457-882e-69de0dcfcf7c",
+      "Scene": "Driving",
+      "Value": [
+        "Análisis de gases"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e1a35850-3bbd-4219-bd24-91ab45608904",
+      "Scene": "Driving",
+      "Value": [
+        "Tiempo de reacción promedio"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e92062cf-80f1-4cc1-a2b9-4f49c23fe525",
+      "Scene": "Driving",
+      "Value": [
+        "",
+        "Aceptado"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "20850251-d8b6-4c9a-8ab9-e0cb619bbf2e",
+      "Scene": "Driving",
+      "Value": [
+        "99 seg"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ed044350-1a0c-454e-b9ed-e374c479d2a5",
+      "Scene": "Driving",
+      "Value": [
+        "Documentación"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e53d6cbf-5bc4-4faa-a652-bd84e096e937",
+      "Scene": "Driving",
+      "Value": [
+        "Salir"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9a5de67f-abcc-43a4-b81d-093ceba788d5",
+      "Scene": "Driving",
+      "Value": [
+        "Guardar elementos personales"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e22a069b-6758-472f-898d-53c599a221f7",
+      "Scene": "Driving",
+      "Value": [
+        "Continuar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7c183076-cd82-493e-83f4-cd36280a87a5",
+      "Scene": "Driving",
+      "Value": [
+        "Guardar mochila"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "71978406-bb3c-4872-8ef7-03a4a2af183c",
+      "Scene": "Driving",
+      "Value": [
+        "Checklist"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "546c6842-93bd-44a9-8391-ceb48cbaff81",
+      "Scene": "Driving",
+      "Value": [
+        "9/9",
+        "2/5",
+        "3/5",
+        "4/5",
+        "5/5"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3a555b8a-e640-4621-b4de-a2bd5ea5d783",
+      "Scene": "Driving",
+      "Value": [
+        "",
+        "Aceptado"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4c73e6a3-2aac-41aa-a740-8408f0c496f9",
+      "Scene": "Driving",
+      "Value": [
+        "",
+        "Rechazado"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d00b413c-9f8c-428a-bf37-9147f7ca1a42",
+      "Scene": "Driving",
+      "Value": [
+        "SOAP"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "11d16afb-dc72-4c49-a0cb-16ecff47dacf",
+      "Scene": "Driving",
+      "Value": [
+        "Checklist"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4d79c765-e8c5-467d-987b-61be375862af",
+      "Scene": "Driving",
+      "Value": [
+        "Felicitaciones, finalizaste el módulo de conductores"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8316de27-187c-47bb-9518-fac60b8c5f81",
+      "Scene": "Driving",
+      "Value": [
+        "Número de situaciones enfrentadas"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c2296dae-3361-4ed7-9d25-4f45b3301f67",
+      "Scene": "Driving",
+      "Value": [
+        "Poner cinturón"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "33e5ac85-0b1a-45e6-99e8-6fd2441ef211",
+      "Scene": "Driving",
+      "Value": [
+        "Cantidad de aciertos en el check list del vehículo"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7672f5bb-f7d5-4611-89cd-52265a53fd1c",
+      "Scene": "Driving",
+      "Value": [
+        "Aquí te dejamos tus resultados preeliminares"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f231a4d8-8826-44fb-a833-4298cb36482b",
+      "Scene": "Driving",
+      "Value": [
+        "Cerrar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3891e716-bf5f-4fbc-8ffa-6cc48ac5d9b4",
+      "Scene": "Driving",
+      "Value": [
+        "99 seg"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3102a1c0-355b-4fd2-a46b-8abb716cd48a",
+      "Scene": "Driving",
+      "Value": [
+        "Cerrar ventana"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "eb42dff6-889f-4821-b871-467442950e94",
+      "Scene": "Driving",
+      "Value": [
+        "0 km/h"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "93c589fb-ef85-432d-8b60-679554b9e373",
+      "Scene": "Driving",
+      "Value": [
+        "Apagar luces altas"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "abeb0101-0e4c-46ee-92bc-13ad13089697",
+      "Scene": "Driving",
+      "Value": [
+        "Situaciones incorrectas"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e61dbb66-92c7-4db9-86b8-930df3dfc3a6",
+      "Scene": "Driving",
+      "Value": [
+        "Entrar"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9d316357-23f6-4854-a38a-16c87cd5ea71",
+      "Scene": "Driving",
+      "Value": [
+        "Abrir"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b243357a-61f5-4783-b9ff-1cee228a1757",
+      "Scene": "Driving",
+      "Value": [
+        "Es apto para conducir?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0453c060-bcfa-493d-85b2-ccf2f648bcc2",
+      "Scene": "Driving",
+      "Value": [
+        "Es apto para conducir?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3d24db38-a1f1-4d51-8909-31f3232d4e86",
+      "Scene": "Driving",
+      "Value": [
+        "",
+        "A unos metros de ti se encuentra una zona inundada con profundidad mayor a 1 metro, qué harás? "
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d3a9fbbb-dcab-42c8-87d5-101b2fa2813b",
+      "Scene": "Driving",
+      "Value": [
+        "Licencia de conducir"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6c6bdf13-b49d-45c5-a62b-9a7af42cd04d",
+      "Scene": "Driving",
+      "Value": [
+        "Checklist"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "70607575-c62e-4185-a582-50e55c57c297",
+      "Scene": "Driving",
+      "Value": [
+        "Permiso de circulación"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0ccfba4c-3c09-4017-8ffd-ffadca1e892f",
+      "Scene": "Driving",
+      "Value": [
+        "99 seg"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "db751379-549a-44fe-93ae-31abfa579642",
+      "Scene": "Driving",
+      "Value": [
+        "Revisión técnica"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e0a2f7b1-d4f2-4264-b966-783aaa6acd53",
+      "Scene": "Driving",
+      "Value": [
+        "0 km/h"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9d06d29a-6488-4c93-88e0-0989f249b3e4",
+      "Scene": "Driving",
+      "Value": [
+        "checklist"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b7675e01-a000-4e4b-949a-c1e31dbcc3ae",
+      "Scene": "Driving",
+      "Value": [
+        "99/99",
+        "2/4",
+        "1/4",
+        "2/4",
+        "3/4",
+        "4/4",
+        "1/2",
+        "2/2"
+      ],
+      "State": "Added"
+    }
+  ],
+  "name": "",
+  "hideFlags": 0
+}

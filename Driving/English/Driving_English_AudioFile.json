@@ -1,0 +1,81 @@
+{
+  "c7111fa3-0ea0-432f-816a-7a16bcc560be": {
+    "welcome": ""
+  },
+  "ae991b3c-0e81-4af4-980b-6ef0cc9c3667": {
+    "01_showControls_CEM001": "Para comenzar, voy a mostrarte cómo usar los controles en tus manos, ¿listo?\r",
+    "02_rightHandIndex_CEM001": "Empezaremos con la mano derecha. Fíjate bien en el botón cerca de tu dedo índice, está brillando. Presiónalo.\r",
+    "03_leftHandIndex_CEM001": "Ahora, haz lo mismo con el dedo índice de tu mano izquierda.\r",
+    "04_triggers_CEM001": "Excelente, estos botones se llaman “gatillos”. Estos servirán para interactuar con lo que te rodea.\r",
+    "05_pressTriggers_CEM001": "Ahora presiona los dos gatillos al mismo tiempo\r",
+    "06_perfect_CEM001": "¡Perfecto! Vamos a explorar más botones.\r",
+    "07_rightHandMidle_CEM001": "En tu mano derecha, verás otro botón brillando. Usa tu dedo medio para presionarlo.\r",
+    "08_leftHandMidle_CEM001": "Genial, ahora haz lo mismo con el dedo medio de tu mano izquierda\r",
+    "09_gripButtons_CEM001": "Perfecto. Estos botones son llamados “botones de agarre”. Ellos te ayudarán a agarrar cosas en el mundo virtual.\r",
+    "10_pressGrips_CEM001": "Ahora presiona los dos botones de agarre al mismo tiempo\r",
+    "11_learnFast_CEM001": "¡Muy bien! Estás aprendiendo rápido.\r",
+    "12_repeatModule_CEM001": "Hemos terminado el tutorial de los controles, te ha quedado todo claro o necesitas repetir las instrucciones?"
+  },
+  "5fb48b64-9fae-4980-bb67-cbafbb07161e": {
+    "01_iSee_EFFM001": "Veo que has completado todos los módulos de este tutorial ¡Eres un experto en realidad virtual!\r",
+    "02_toComplete_EFFM001": "Para completar el tutorial he dejado dos botones disponibles: El botón de la izquierda te permitirá repetir la experiencia del tutorial. El botón de la derecha te llevará a tu proceso de evaluación. ¡Éxito!\r",
+    "03_toCompletePP_EFFM001": "Para completar el tutorial he dejado dos botones disponibles: El botón de la izquierda te permitirá repetir la experiencia del tutorial. El botón de la derecha cerrará la aplicación. ¡Éxito!"
+  },
+  "a307d455-78fd-409b-89a7-fe7a1ab85964": {
+    "01_start_GM001": "Aquí te mostraré cómo agarrar los objetos de tu entorno virtual.\r",
+    "02_objectCreated_GM001": "He creado tres objetos para comenzar\r",
+    "03_howGrab_GM001": "¿Cómo tomamos un objeto? Primero, Acerca la mano al objeto. El objeto brillará. Segundo, mantén presionado el botón al costado de tu mando. Tercero, para soltar el objeto, solo debes soltar el botón anteriormente presionado. En cualquier momento puedes volver a consultar esta instrucción en la pantalla que está sobre la mesa\r",
+    "04_rightGrab_GM001": "Usa el botón de agarre de tu mano derecha para tomar uno de los objetos. Recuerda que es importante acercar tu mano sin miedo al objeto y cuando se encuentre el objeto brillando debes presionar el botón para agarrarlo.\r",
+    "05_leftGrab_GM001": "Ahora, emplea el botón de agarre de tu mano izquierda para tomar otro objeto. Recuerda que es importante acercar tu mano sin miedo al objeto y cuando se encuentre el objeto brillando debes presionar el botón para agarrarlo.\r",
+    "06_letsPlay_GM001": "¡Fantástico! vamos a jugar un pequeño juego.\r",
+    "07_conveyerBelt_GM001": "Verás un icono de objeto sobre la puerta de la cinta transportadora que se encuentra a tu derecha. Coloca el objeto solicitado sobre ella para superar este desafío. Solo necesitas hacerlo una vez.\r",
+    "08_incorrectObject_GM001": "Oops, ese no es el objeto correcto. Recuerda que el objeto necesario aparecerá sobre la puerta de la cinta transportadora.\r",
+    "09_incredible_GM001": "¡Increíble! Estás progresando.\r",
+    "10_repeatModule_GM001": "Hemos terminado el tutorial de agarrar objetos, te ha quedado claro o necesitas repetir las instrucciones?"
+  },
+  "24309944-2468-423b-bc6f-8ff8ae9012a7": {
+    "01_welcome_SFFM001": "Te damos la bienvenida a este tutorial, hoy te enseñaré a convertirte en una persona experta en el uso de la realidad virtual"
+  },
+  "a8c49953-2b58-4d35-ab72-ea925ec89996": {
+    "01_start_TM001": "Ahora te enseñaré a desplazarte por tu entorno\r",
+    "02_aimTeleport_TM001": "Busca alrededor dentro de la bodega una zona de color azul, apunta con tu control derecho sobre él y presiona el botón de gatillo en tu dedo índice para activarlo. Serás llevado instantáneamente al nuevo lugar. Recuerda que estas en una simulación de 360 grados por lo que puedes girarte completamente para buscar la zona.\r",
+    "03_aimTeleport2_TM001": "¡Excelente! Ahora inténtalo nuevamente. Busca la nueva zona de color azul, apuntalo con tu control derecho y presiona el botón de gatillo\r",
+    "04_aimTeleport3_TM001": "Genial, hazlo nuevamente con la nueva zona de color azul, apuntala con tu mano derecha y presiona el gatillo\r",
+    "05_goToBeginning_TM001": "Perfecto, vuelve al inicio para continuar. Apunta tu control derecho al zona de color azul y presiona el gatillo\r",
+    "06_end_TM001": "¡Listo! Ahora dominas el desplazamiento entre diferentes puntos en realidad virtual\r",
+    "07_repeatModule_TM001": "Hemos terminado el tutorial para desplazarte, te ha quedado claro o necesitas repetir las instrucciones?"
+  },
+  "960a5386-55da-4148-8c25-59d873db06b6": {
+    "01_start_USM001": "Aquí te enseñaré cómo interactuar con pantallas\r",
+    "02_toStart_USM001": "A continuación te dejaré tres tickets en la pantalla que debes seleccionar. Si lo logras, habrás completado este desafío\r",
+    "03_howToSelect_USM001": "¿Cómo seleccionamos un objeto? Primero, apunta con tu control hacia el objeto. Segundo, Presiona una vez el gatillo En cualquier momento puedes volver a consultar esta instrucción en la pantalla que está sobre la mesa\r",
+    "04_selectTickets_USM001": "Selecciona los tickets apuntando con tu mando y presionando una vez el gatillo, cuando estén seleccionados se pondrán de color verde\r",
+    "05_excellent_USM001": "¡Excelente, eres genial para estas cosas!\r",
+    "06_repeatModule_USM001": "Hemos terminado el tutorial de seleccionar, te ha quedado claro o necesitas repetir las instrucciones?"
+  },
+  "1939d4e3-320a-4468-a14b-17f644647436": {
+    "01_welcome": "",
+    "02_firstTask": "",
+    "03_howToRespond": "",
+    "04_pressContinueButton": "",
+    "05_howToTeleport": "",
+    "06_howToChecklist": "",
+    "07_enterVehicle": "",
+    "08_insideVehicle": "",
+    "09_howToStartVehicle": "",
+    "10_vehicleStartMoving": "",
+    "11_stayAlert": "",
+    "12_unexpectedSituation": "",
+    "13_takeDecision": "",
+    "15_correctDecision": "",
+    "16_veryGood": "",
+    "17_consequences": "",
+    "18_wrongDecision": "",
+    "19_testComplete": "",
+    "14_outOfTimeDecision": "",
+    "20_endFaseTwo": "",
+    "21_exitCarFaseThree": "",
+    "22_YaReportamosDisclaimer": "",
+    "23_HaQuedadoRegistrada": ""
+  }
+}
