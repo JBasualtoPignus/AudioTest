@@ -1,0 +1,2174 @@
+{
+  "data": [
+    {
+      "Key": "43ad06b2-9cd5-44fa-b74d-9e52b7983945",
+      "Scene": "00_MainScene",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "dce258b9-8195-4bea-ac5d-2deb99509c51",
+      "Scene": "00_MainScene",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "726f1f18-9cb6-4881-a7c0-7f479aab2768",
+      "Scene": "00_MainScene",
+      "Value": [
+        "visual aperture: 1.0"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "548bf76b-fc3c-4ec1-ab87-36b2d1e248b4",
+      "Scene": "00_MainScene",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3908300e-84dc-41d2-8fd7-a945d9798b29",
+      "Scene": "00_MainScene",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c473ec1e-0071-4983-a72d-7995930c6f14",
+      "Scene": "00_MainScene",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "07cd53fb-2932-4996-b72e-cd83685e2277",
+      "Scene": "00_MainScene",
+      "Value": [
+        "visual aperture: 1"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "171af1e1-c03e-4f32-b97f-e631008ddba1",
+      "Scene": "00_MainScene",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "01cbba19-d3b9-416e-8447-1506cabd675f",
+      "Scene": "00_MainScene",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7b89999b-b782-4294-9add-b06f5aebe21e",
+      "Scene": "00_MainScene",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a0e02386-3b2e-4ae8-9c1a-f013733686a8",
+      "Scene": "00_MainScene",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5c1250b7-05cd-4234-9754-91ea2ff02190",
+      "Scene": "00_MainScene",
+      "Value": [
+        "Start"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "bb5d3bcb-3c0b-4bc6-9994-4e9f03c9216f",
+      "Scene": "00_MainScene",
+      "Value": [
+        "Welcome to the Virtual Reality simulation"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "35e94d9b-e44e-452c-92ce-bac7c81748b1",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Enter Warehouse"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7eadd507-6eb5-4d7b-9c2e-344fac064c2f",
+      "Scene": "01-Entrada",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "381044ee-990b-4634-9a01-090bcf5ebb60",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "987ab205-522e-461a-bdc1-a59470fc1593",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4741a310-9909-4d71-b166-7193892e5869",
+      "Scene": "01-Entrada",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9445d9db-ee10-4716-b725-2f92888815c1",
+      "Scene": "01-Entrada",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b4850472-294a-4bc2-ac3f-c0b56192a166",
+      "Scene": "01-Entrada",
+      "Value": [
+        "visual aperture: 1.0"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c01f0887-ecb1-47ca-a7b0-148cbe2d9cee",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6fcf17bd-78c0-46cc-8c04-9bd7f7246e7c",
+      "Scene": "01-Entrada",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "554f3ea4-59d2-4196-a532-7b33f37dd4d7",
+      "Scene": "01-Entrada",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "845a89d3-cfe3-4f8e-9938-cfc0b28ec027",
+      "Scene": "01-Entrada",
+      "Value": [
+        "visual aperture: 1"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "57b8ebc4-d5a9-4e83-9143-58099f7f252f",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e4b27988-d6f4-4645-9353-fb9c0f5f1175",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "39485647-1cd3-4627-b1cc-fbf5e6eb9dde",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "aa75771e-858d-49c4-a12b-c59ed7bff0e2",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1e7468a0-a792-4b4a-b877-34868e944a9b",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e58332b1-f3a9-4bca-a87a-d91d57d123d7",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Understood"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "87b93868-1e72-4e92-9c10-e4458e17da3a",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Welcome to the Work Site. Please get on the bus."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3fa46f27-ce6e-45a3-a38c-46443834f3e6",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Task finished"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0d765282-d760-4698-bdf3-6b4071ef3cef",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Now you must remove the VR headset and follow the evaluator's instructions.\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "83d3c23b-9b1d-4e20-95ef-1afafc874b60",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Understood"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9d343dbb-873c-47e1-8ca6-cd991720b96d",
+      "Scene": "01-Entrada",
+      "Value": [
+        "You have been selected to undergo an alcohol and drug test. Please go to the clinic to complete the process."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "633594d0-add7-45c2-a2f2-4f1f80986fc5",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Declare tools"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "09cf12b8-f049-4005-95c9-286e920186c3",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Present credential"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d008fc5b-c369-4ee0-834b-77ecec437c3f",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Exit"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "be871fd3-32c7-4ef0-9af2-f09df9900357",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Select one of the options."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d8815d24-3e14-433a-b637-076bae845bc0",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Enter work site"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0f5e02d9-2896-4167-95f9-82fc16f32726",
+      "Scene": "01-Entrada",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "87cb8bc1-ea75-4864-ad79-a18d5cf29b9a",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Start access control?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "713bcb37-1fb3-4d52-a049-791b58e24a52",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0905c2da-9a16-422e-a64b-af47757bcfa5",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Fasten"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d72c6fd6-baeb-47ba-9083-5a52d4681d76",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Fasten seat belt?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c16851a2-08ff-44ee-81bf-63de37d100b6",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ad74ab17-df86-401f-957f-fb80b162f1e7",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Travel"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f24eacf5-7b15-4d1d-95f2-70403e4f8e61",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Get off"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5f301d89-a8f4-4348-80f7-54a8c69b650f",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Start trip to work site?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4cc72a3c-0f21-4273-a61d-e3d567d731b4",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "202d441b-4333-46fe-b075-ea610dc6cacb",
+      "Scene": "01-Entrada",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3c29649b-0d15-4175-89a0-733e374d4974",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a87a1415-a7df-4711-825d-40f0fca08b0f",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "69d7cd85-ccd9-4310-918b-3a02690ac8e2",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Get on"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "12e23512-2eaa-47d8-8b2b-ae0efa1cb78d",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Do you want to get on the bus?"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2682ab2f-6654-4b45-b8c8-9e2072408caf",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c3ab19d7-c940-4c6d-818e-f64d039ddcc4",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Exit Warehouse"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7931075d-5eff-4f5e-9355-ed3d6759dcec",
+      "Scene": "01-Entrada",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "15913cac-0702-4c35-83fb-b9e40b0edbfc",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f5f76848-a562-4215-8944-b7f4fc626269",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "da759ba9-9a3c-4250-b04e-f56dbacc2903",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Finish task\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "477b58f4-5777-49aa-889c-6b84a1a42a9b",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Now you must remove the VR headset and follow the evaluator's instructions.\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "aba0db3d-01c2-4a80-9182-add7a90615ca",
+      "Scene": "01-Entrada",
+      "Value": [
+        "Submit"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "10666587-1782-464b-a118-1d551ccaf5a6",
+      "Scene": "01-Entrada",
+      "Value": [
+        "You must give the voucher to the Warehouse manager to receive your personal protective equipment."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8830300a-6845-403e-afda-dcc6f870815a",
+      "Scene": "01-Entrada",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ef97624a-304f-4aff-b98c-00726fc1d64a",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b3593559-cc1e-4fb9-a9b0-972380fe164d",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "28eb9fbe-522f-4ce6-8b68-689afe454bc6",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0c60eaa1-a641-4667-b550-cb9f2cf787a0",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2e58e089-2e02-4b70-b39b-b82c4582ae2e",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "91ebc49b-348a-4d2b-ae22-24f58d53efa1",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "21acf817-5bc4-4736-bbc3-ac49cba80593",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ecf89e8c-ea6f-4c48-83fe-f33023ab23e6",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "288fffea-fab3-488b-92d4-d966445b18f7",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1a552c97-e27c-49c6-bcbb-50d1f32f9767",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "cd9ee1ae-ccca-4c49-b2dc-ae86c645cfa2",
+      "Scene": "02-Faena",
+      "Value": [
+        "Finish"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3379a0de-0f80-4cea-8fea-d6b23fcbe9f9",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2f587bb0-5ea1-439b-9628-d0c4f497b241",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "397ae031-5f40-4a50-983c-5c6b39bdcd4d",
+      "Scene": "02-Faena",
+      "Value": [
+        "Statement"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e5b5333a-2100-4d20-b186-8ebb31773b90",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4d28c75a-6914-4343-8032-f23ba4344b44",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e552ee26-6d2d-40bc-b806-1511ddb04182",
+      "Scene": "02-Faena",
+      "Value": [
+        "Statement"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "be210dd0-df5e-46ae-9d79-afe55016e30c",
+      "Scene": "02-Faena",
+      "Value": [
+        "<color=green>Correct</color>"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e477fe9f-b3fe-4b55-8a6f-6570c10880d9",
+      "Scene": "02-Faena",
+      "Value": [
+        "<color=green>Answer"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b7f8d655-529b-4717-a0cb-270b7ebd68a9",
+      "Scene": "02-Faena",
+      "Value": [
+        "<color=green>Statement"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "188396b0-960c-48f7-a501-c4e4f7d0c816",
+      "Scene": "02-Faena",
+      "Value": [
+        "Your Answers"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0b630eed-4c11-4a4b-ba0c-87743ddbec83",
+      "Scene": "02-Faena",
+      "Value": [
+        "Next"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "086e28c6-6811-4c1f-ae6c-70394021dec0",
+      "Scene": "02-Faena",
+      "Value": [
+        "Back"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8fff5929-4189-410e-81ae-76017dec6509",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer to question number one."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "43b06f97-62fa-442c-9d57-6f4b287d5652",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer to question number one."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9bae806a-18c9-463f-b6d2-0c712d5463ad",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer to question number one."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6023c53e-47ca-4543-aa5d-e6c0a9c578d6",
+      "Scene": "02-Faena",
+      "Value": [
+        "Answer to question number one."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "814480f3-6a5c-404c-8942-6e4dafa67b24",
+      "Scene": "02-Faena",
+      "Value": [
+        "Statement"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1088371f-82fa-4cbb-bf92-5dc87a94b0f5",
+      "Scene": "02-Faena",
+      "Value": [
+        "Start"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "61f21c88-c670-47fd-9df0-992937f789d0",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c2587d9e-daca-4585-a3e1-fc907f7b65db",
+      "Scene": "02-Faena",
+      "Value": [
+        "Tutorial"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "28d1acb6-51c1-4840-bdd2-e416fc028bb6",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6deb4769-dfb7-4475-b3c8-58f7c0ad4a85",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c024f9d5-2e7c-46df-8354-14285be97f78",
+      "Scene": "02-Faena",
+      "Value": [
+        "Strengthen personal conduct to face emergencies in a timely and effective manner."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ea20496a-712c-451c-af3e-e429f7cfd054",
+      "Scene": "02-Faena",
+      "Value": [
+        "1. In an emergency, locate the supervisor or area operator and await instructions.\n\r\n2. In case of evacuation, follow instructions and go to the PEE (Emergency Assembly Point).\n\r\n3. Only in case of an incipient fire and if you have training, use an extinguisher according to instructions.\n\n4. Once the emergency is over, await instructions and report to direct supervision."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5639c9f7-247a-4ed0-bf6f-6e16d7b860cf",
+      "Scene": "02-Faena",
+      "Value": [
+        "It is essential to be prepared to face emergencies."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2b82aed4-8119-42d5-b972-c04bc02786b5",
+      "Scene": "02-Faena",
+      "Value": [
+        "Emergency Plans"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5a488483-2814-4097-ac68-2b2fc460a8de",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "87f637ba-540c-4e7b-b120-79b25a456b35",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ee816ef5-63a0-4f66-891c-df9b36cadbec",
+      "Scene": "02-Faena",
+      "Value": [
+        "<b>Head Protection:</b> Safety helmets to protect from impacts or falling objects.\n\r\n<b>Eye Protection:</b> Safety glasses, goggles with special lenses, or face shields to protect from particles, chemical splashes, or rays.\n\r\n<b>Hearing Protection:</b> Earplugs or earmuffs to reduce noise and prevent damage.\n\n<b>Respiratory Protection:</b> Masks or respirators that filter particles, gases, or vapors.\n\n<b>Hand Protection:</b> Safety gloves made of different materials (leather, latex, nitrile, etc.) depending on the type of risk (cuts, abrasions, chemicals, heat, cold, etc.).\n\n<b>Foot Protection:</b> Safety footwear with steel or composite toe caps, sole protection, and protection against electrical hazards.\n\n<b>Body Protection:</b> Coveralls, reflective vests, protective suits against chemicals, flames, electric arcs, etc.\n\n<b>Fall Protection:</b> Harness and safety rope for working at heights.\n\n<b>Other PPE:</b> High-visibility clothing, specific workwear for certain tasks (construction, food handling, welding, etc.)."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6e3c196b-c22d-4e49-84ec-5bbd742129de",
+      "Scene": "02-Faena",
+      "Value": [
+        "Specific Personal Protective Equipment:"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f785ea0b-aa73-405d-a9cf-4d37a6a9f5d2",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "998d9969-18d3-49d8-9868-0f2340067bba",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2409d40d-57e9-4fe3-8526-5e060ea8521b",
+      "Scene": "02-Faena",
+      "Value": [
+        "Establish that the proper use of personal protective equipment helps protect workers from potential risks in their work environment that could compromise their health and safety."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ab01ae8f-33cf-41b9-a5c4-a8ce6c74a7d9",
+      "Scene": "02-Faena",
+      "Value": [
+        "Safety shoes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d467d84f-9559-4509-b590-3621777ad383",
+      "Scene": "02-Faena",
+      "Value": [
+        "Reflective Vest"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "cc8d5ed3-d615-4428-8235-1d38c980ec78",
+      "Scene": "02-Faena",
+      "Value": [
+        "Safety gloves"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "41dc64c0-2dce-4757-9bc5-f3e7ce0133de",
+      "Scene": "02-Faena",
+      "Value": [
+        "Hearing protection"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7c65c766-99ab-493a-a574-a4919eb5e15b",
+      "Scene": "02-Faena",
+      "Value": [
+        "Respirator (Dust/gases)"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "932bdb3c-4ff3-46ea-aabb-55749cfbf3a0",
+      "Scene": "02-Faena",
+      "Value": [
+        "Safety helmet"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "13ae75f2-2d48-4fdf-86c1-b0d41610d295",
+      "Scene": "02-Faena",
+      "Value": [
+        "Safety glasses\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b815e0e5-3352-4b82-ab8b-a89c98424e73",
+      "Scene": "02-Faena",
+      "Value": [
+        "Personal Protective Equipment (PPE)"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ebdb5af9-ed65-4fad-a8f5-75cbb8ed39b6",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "524dc2cd-f204-4b20-a0cb-a40abe85ba0e",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ba737407-7403-4be8-9094-409a0a0221c9",
+      "Scene": "02-Faena",
+      "Value": [
+        "Establish that in every mining operation, pertinent authorizations must be obtained for entry into any area."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fcf97a97-cbe3-4af8-9e2a-b7408d2e5224",
+      "Scene": "02-Faena",
+      "Value": [
+        "1. Entry to areas must be coordinated and authorized by the area manager.\n2. Notify entry and exit from the area to the Operator, through the channel assigned to the area (Frequency 1).\n3. Always use the PPE specified for the area.\n4. Do not interrupt ongoing work. In case of any risky situation, communicate with the area supervision or the nearest operator."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "adc438a9-3959-435e-b872-2477f42c4744",
+      "Scene": "02-Faena",
+      "Value": [
+        "External personnel"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "39d6887a-b189-4a08-a59f-dda8762f5bb2",
+      "Scene": "02-Faena",
+      "Value": [
+        "Authorized personnel entry"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "18391548-b971-44de-94fd-0259a4faa407",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9c7df69d-a7ba-42e9-b110-347a055b045e",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "9351d20a-9878-4051-86db-d82141c5a6c3",
+      "Scene": "02-Faena",
+      "Value": [
+        "Reinforce the concept of Risks and Hazards to prevent the occurrence of accidents through controls."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d7bc45b0-7fdc-46db-9a59-76c910c0f645",
+      "Scene": "02-Faena",
+      "Value": [
+        "A hazard at work is any source, situation, or act that has the potential to cause harm to the health or safety of workers."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "50cc3817-5260-42e0-b8df-b6f34a2879d7",
+      "Scene": "02-Faena",
+      "Value": [
+        "Hazard"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "64e85da8-72a5-413e-8c0b-0bfb289b1a90",
+      "Scene": "02-Faena",
+      "Value": [
+        "It is the probability that in the interaction with a hazard (source of energy) an undesired event occurs with negative impact or consequences."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "aad7f3c3-ff53-41f2-8a27-3a6848cbdd64",
+      "Scene": "02-Faena",
+      "Value": [
+        "Risk"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "29c26784-7d69-494a-8c62-7ff0b76c4fa0",
+      "Scene": "02-Faena",
+      "Value": [
+        "Risks"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ba307ad7-961b-4cb8-aba6-20a26a96c043",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a8af2b78-da60-4007-b9f7-1fe3b3eca6a4",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "63751d13-983c-4155-a4aa-29e265feb3f6",
+      "Scene": "02-Faena",
+      "Value": [
+        "The Management Framework for Mining Processes to ensure the standardization of operations."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7eef5fe3-5787-4e09-aa1d-fb853ab5c632",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Equipment Checklist\n- Step by Step"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "aa5986be-b3af-40ed-9429-e4b9e9d16489",
+      "Scene": "02-Faena",
+      "Value": [
+        "Work\nInstructions"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "87c602bf-10ed-4688-b58c-94fd7c6ed62f",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Operation Procedures\n- Maintenance Procedures\n- Inspection Procedures\n- Safe Work Procedures"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e3d52b51-4c52-4ab6-bfd9-81299c9786cb",
+      "Scene": "02-Faena",
+      "Value": [
+        "Work\nProcedures"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "723781f8-154e-47aa-8cce-17acc326ad60",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Plans and Programs\n- Strategic Objectives\n- Risk Management\n- Emergency Plans"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "74c59ec7-a57b-4a47-bf44-5216d41cd588",
+      "Scene": "02-Faena",
+      "Value": [
+        "Sustainable\nDevelopment\nStandards"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "03f96839-1ace-4e45-83fa-47d3682b5982",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Health and Safety Policy\n- Environmental Policy\n- Social Responsibility"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "acf65860-171e-4510-aa45-516b4bfd1dd1",
+      "Scene": "02-Faena",
+      "Value": [
+        "Corporate\nPolicies"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8ff875ce-63a1-4752-80de-49e8a917aa5e",
+      "Scene": "02-Faena",
+      "Value": [
+        "Internal Regulations"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6251d385-fc3a-49b0-b0b3-6b836cb3d4fe",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "389f7b88-f9f1-46b7-9a02-98738ed7823d",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5c5cf7e2-bdad-4d67-833b-ee432d006dad",
+      "Scene": "02-Faena",
+      "Value": [
+        "Simulate the explanation of how important it is to apply and respect current legislation.\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b4107454-2a5b-49d5-a8c6-002ec7d30c97",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Law on General Bases for the Environment, establishes the bases for the protection and conservation of the environment, as well as the guarantee of the right to live in an environment free of pollution."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7e6dd0cb-583e-44e1-9080-9aa7e7b447e9",
+      "Scene": "02-Faena",
+      "Value": [
+        "Law\n19300"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "addecb82-d66d-42ef-879b-31673ff2432e",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Sanitary Regulation on Hazardous Waste Management, establishes the sanitary and safety conditions for waste management, from its generation to its final disposal."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "545cbc7e-8cfd-4442-90df-d0b879dc8ef4",
+      "Scene": "02-Faena",
+      "Value": [
+        "DS 148"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "388ea3a5-4689-4794-bedc-acbd788e2e1d",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Regulation on Basic Sanitary and Environmental Conditions in Workplaces, establishes the minimum sanitary and environmental conditions that must exist in workplaces to protect the life and health of workers."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "cde0e63d-3989-405b-914c-572dc42fa806",
+      "Scene": "02-Faena",
+      "Value": [
+        "DS 594"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "40160501-526f-46be-a188-aa285766d115",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Mining Safety Regulation.\n- Protect the life and physical integrity of mining workers and third parties.\n- Safeguard the facilities and infrastructure of mining operations."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "01664fc2-79ed-4d95-8203-023fbc2a0d65",
+      "Scene": "02-Faena",
+      "Value": [
+        "DS 132"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e3ecb779-c987-497e-a261-254eb22f2643",
+      "Scene": "02-Faena",
+      "Value": [
+        "- Work accidents\r\n- Occupational diseases\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "72bc3592-79ff-42cf-ba12-5994e40b925b",
+      "Scene": "02-Faena",
+      "Value": [
+        "Law\n16.744\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c73eeab4-afc3-4b0c-91d1-bd35432d8dc0",
+      "Scene": "02-Faena",
+      "Value": [
+        "Mining Legislation (Main)\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8925baf8-67b1-4c45-bfb5-63069f390da0",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "dfbabdf0-2923-41ec-923c-efc65f7c3f58",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "665aed1d-7d2a-4bfb-9cfc-369537ff351b",
+      "Scene": "02-Faena",
+      "Value": [
+        "Simulate an induction in the context of defining and establishing the scope of the extractive mining industry. Define type of extraction, description of processes, resources used, final products \r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "045a19f2-c781-4a01-8f62-4e85a9a25239",
+      "Scene": "02-Faena",
+      "Value": [
+        "Installations\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5cde6f2e-abc9-467b-bb8e-3da3c653db65",
+      "Scene": "02-Faena",
+      "Value": [
+        "Plants\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4da7129d-9eca-4e81-8126-4b88ba442579",
+      "Scene": "02-Faena",
+      "Value": [
+        "Mine"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ff9a5de0-987c-49f7-83ab-a40e73a58382",
+      "Scene": "02-Faena",
+      "Value": [
+        "Installations\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2473ea73-3820-49f8-b28d-65b634650eb2",
+      "Scene": "02-Faena",
+      "Value": [
+        "Equipment\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4ca092d0-bae0-48f2-aa1e-0c6cca3ef873",
+      "Scene": "02-Faena",
+      "Value": [
+        "Processes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e1761119-5b45-444e-8ef1-23a0a98d9141",
+      "Scene": "02-Faena",
+      "Value": [
+        "Mining Industry\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "963d599b-c281-4a67-ada1-04f483b4e026",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2f1455f3-2f51-4c71-9efe-ab3652f820e9",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8dddbb4c-1ffb-43df-9297-960d213adfe1",
+      "Scene": "02-Faena",
+      "Value": [
+        "Safety Induction\r\n \r\nMining Worker\r"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "528e8ad8-0762-4bc8-b612-a96d72867278",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6861d4d3-16d7-4db8-abb9-14a37321c97e",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "52d0f587-1783-43ce-8ee8-36f6e1a68bea",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ba3333c9-395f-4a1f-a499-3fae6120c9a2",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6e424f33-ecba-423e-be17-8a0bb6ab15ed",
+      "Scene": "02-Faena",
+      "Value": [
+        "Activate lights"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c8db5615-228e-41e4-a3ab-e76c5f6056a2",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1034283b-dae7-46c7-a043-9a5767ac2ff1",
+      "Scene": "02-Faena",
+      "Value": [
+        "Exit Office"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fca64b51-a87f-4435-8ad8-354bd04c2695",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f9c577e0-0900-4c9f-964b-3403012f42f1",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b9c67ada-3c21-4cd2-9a63-dfc0ac278944",
+      "Scene": "02-Faena",
+      "Value": [
+        "End Simulation"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2d905a22-d186-4a7a-b288-742fe18cebc7",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f1a7fdbb-51be-44e2-8edb-fe3654c546ee",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2b457a14-88d2-44ab-9e75-5fce8b4581cb",
+      "Scene": "02-Faena",
+      "Value": [
+        "Enter Office"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7dfb2919-86b7-499d-9ef1-0fad2cfe6bd7",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0953fbf1-bc19-439f-8279-fcf59482f2f6",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c57edb10-fc73-40cd-bac0-6d8a1c43c5fa",
+      "Scene": "02-Faena",
+      "Value": [
+        "Enter Office"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2b0cc0d9-0e16-42cf-aa52-d0fde46162c1",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "cdfe92fa-d049-4b87-b020-3d1dc720ef36",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b77a679a-6f7b-434c-90c3-01cda72b9c0d",
+      "Scene": "02-Faena",
+      "Value": [
+        "Enter Office"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "78141e88-c548-40c4-8a38-80d90cb71bfb",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "bdcf1be8-cbb6-464d-ae38-c4ff057d0aa6",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5997630b-b670-45af-a3bc-20b0ec3d26f9",
+      "Scene": "02-Faena",
+      "Value": [
+        "Exit"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3eb67af0-777b-47c2-8a3c-b38853003fb3",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "99199a44-6f4e-4c7b-ae6e-0862d3178f77",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "69b4629c-51d3-495c-9c4c-27e11d9df18c",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c44dbd10-b47b-446a-a3d4-b9ec105e7240",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0549144b-32e3-4784-979f-3118dd033e5c",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0772df01-29cd-4a90-8e97-0f245f7a13fc",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "da17c205-3998-4028-a6c6-77c6d306337d",
+      "Scene": "02-Faena",
+      "Value": [
+        "Enter Clinic"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1de67ab5-b3c6-41ae-954a-dd23826a9029",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "da5b39c9-5afa-4938-8a35-48253881191a",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1334b126-7f09-4a5d-b9c3-0b9aacfbb27c",
+      "Scene": "02-Faena",
+      "Value": [
+        "Take a Seat"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4cbe919c-2bee-48a8-8331-c43ccbbad8f3",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the type of exam to perform"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "02384e86-d75f-4804-9fd8-9541d4c256fb",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "38c73d20-40ac-4b05-89db-16d644694912",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c00ad416-a208-48b5-a11c-662ad94ff8a8",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "dbd04ba5-4154-465c-8372-071294937258",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0bc78a1d-ca1c-4081-ae1f-a97b4e05e5a0",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6e9eea02-9f8b-4a2d-819d-a60de244d202",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "637d3946-64c3-4317-8504-bac106dbfd64",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "bafe31a8-8a5a-4dae-b87d-732e2e5e5f2e",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "46f71586-40e2-4487-bee6-9dbb05fcb5b8",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "005a6e02-b0e5-423a-bf81-a1a6610383a1",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "251d33c4-1fa5-418c-a59c-1e944e9360e8",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3efbb91f-d798-4ae1-ab0c-3702fb9c81fa",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fc441418-165f-45fd-9d1e-ce3abef29eee",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "19d22a99-81c2-4df0-8dcb-24651b80f1a4",
+      "Scene": "02-Faena",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4d9498ee-c64d-4f99-a514-49eb7afbb059",
+      "Scene": "02-Faena",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "02f1cd11-41af-4270-9573-9e2395429276",
+      "Scene": "02-Faena",
+      "Value": [
+        "visual aperture: 1.0"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "8682b55a-cfa9-45d6-bcd5-8829c915f30a",
+      "Scene": "02-Faena",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4ac0871e-9f3b-4b23-96e4-2a52bb97f81a",
+      "Scene": "02-Faena",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1c726186-f94d-48ad-ada4-ddb04a17a69a",
+      "Scene": "02-Faena",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e34f12a7-f703-457c-9c17-00c47f55782c",
+      "Scene": "02-Faena",
+      "Value": [
+        "visual aperture: 1"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f1d94eb7-3479-40d6-a9ad-2113987f80c5",
+      "Scene": "02-Faena",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "67746a2a-2093-4ac4-abfc-6059f59195d9",
+      "Scene": "02-Faena",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e7ffa9bf-5112-457c-8536-aeff8b6f3c3f",
+      "Scene": "02-Faena",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "4aa71716-da8f-416d-bd57-07822a291f8f",
+      "Scene": "02-Faena",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "87b90192-9085-4aef-97e1-7a2f1b89da3c",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "bb835774-5f53-4678-a4a0-45d4726c7eb5",
+      "Scene": "02-Faena",
+      "Value": [
+        "Understood"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "275d3f0d-740d-4856-b902-ed35844310d7",
+      "Scene": "02-Faena",
+      "Value": [
+        "The exam results have come out well."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fa3a5098-5379-4bb3-aa10-11c0ff2a045a",
+      "Scene": "02-Faena",
+      "Value": [
+        "Retake exams"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e4754e12-d0c0-407c-9cbb-949adc44ed20",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7943fd51-a9e7-4f33-8e89-3c882f32864a",
+      "Scene": "02-Faena",
+      "Value": [
+        "Wait 20 minutes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a69adc23-12ca-41ca-b6a9-e487ddf302d2",
+      "Scene": "02-Faena",
+      "Value": [
+        "The results of the hypobaric exam have shown high blood pressure values, please wait to retake the exam in a few minutes."
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "cc21eeb8-5377-4d48-9b8a-3f2c218433cb",
+      "Scene": "02-Faena",
+      "Value": [
+        "Take Exam"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ee044eb9-82ac-433c-b540-f1fe8f03cec8",
+      "Scene": "02-Faena",
+      "Value": [
+        "Alcohol and drug test"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e1ddcfc6-66dc-47d1-b8a0-1361cc1827f6",
+      "Scene": "02-Faena",
+      "Value": [
+        "General hypobaric exam"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "6ad7c944-eacf-4709-a269-3525aefe014a",
+      "Scene": "02-Faena",
+      "Value": [
+        "Select the exams you need to take:"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a33acee0-4e85-44b2-9540-45a780a9b4a5",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "aa26f322-123d-4898-bab7-b9c5b3631226",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "36a6a98a-c3a3-471f-b5da-d57378a421da",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "5fe81657-7a50-41d1-b2c1-84d668a5aef2",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "ca3a4ba6-1255-47b7-aca2-470c071a0761",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2cf83158-7d9e-4a61-aadf-07e8f52686e9",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "341a7752-58db-4526-b40c-5fbfc43e0ee2",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "b3e31d62-8d57-4691-9166-ca82eac93602",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "37db5a01-ea75-40fd-a58d-b0fa1bbd0966",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "0c4bd973-6a59-4a0d-b0c4-acbaeae0245a",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e1ba39ed-4535-4a98-8c3d-cbf956e6bdf3",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d7cb8654-8435-485f-8ef5-065c2a3c93ee",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "d0b1bce4-b464-4177-8839-4a771afd54ac",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "f2a6f813-3bf6-495d-a558-1727fb8a1544",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "135660d1-d0d5-40a7-a092-60404431ae3d",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "df18feeb-0895-40a3-a1b9-0ed2450e2ba3",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "22b9e225-eea8-4659-b521-00a96d45f8c6",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "7bc55908-84ec-467b-94a7-6072fa5afad2",
+      "Scene": "02-Faena",
+      "Value": [
+        "Yes"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "c1c66bbe-226d-4028-b8f1-ad6aa7a377ff",
+      "Scene": "02-Faena",
+      "Value": [
+        "No"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "a94ba564-ee5b-4772-9515-596168ef6b45",
+      "Scene": "02-Faena",
+      "Value": [
+        "Cones placed\n"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "86025b83-895c-4277-b3fb-bfc96fa8b7d8",
+      "Scene": "02-Faena",
+      "Value": [
+        ""
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "cf026d4f-0843-4cbf-872d-645c676d5bfb",
+      "Scene": "Preload",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "612fa752-6072-45d3-8ce5-cabf7bd923bf",
+      "Scene": "Preload",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "22d05b45-8959-4605-a2de-42e7e3a9859c",
+      "Scene": "Preload",
+      "Value": [
+        "visual aperture: 1.0"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "78d1796f-a1d3-4377-9d34-69a9772a2ebb",
+      "Scene": "Preload",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "e41bedeb-5d33-415c-8df4-dd9a20a8dd89",
+      "Scene": "Preload",
+      "Value": [
+        ">"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "abecb5d5-1ae2-4936-8153-2f7784bc93ba",
+      "Scene": "Preload",
+      "Value": [
+        "<"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "fbb66f96-57aa-4833-9570-7948c8066e5d",
+      "Scene": "Preload",
+      "Value": [
+        "visual aperture: 1"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "3628214b-ef09-473f-8d08-1a292c59047e",
+      "Scene": "Preload",
+      "Value": [
+        "Microphone"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "eaee3835-d527-4e2e-b39f-4d958cc1609d",
+      "Scene": "Preload",
+      "Value": [
+        "Turn"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "1d8181b7-0e4f-43d0-ae53-1363292dd79b",
+      "Scene": "Preload",
+      "Value": [
+        "Teleport"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "2ba0aae0-fb95-4d31-b2b6-e03f2f1488e6",
+      "Scene": "Preload",
+      "Value": [
+        "Nickname"
+      ],
+      "State": "Added"
+    },
+    {
+      "Key": "23442c52-451b-4cb1-9252-df85ec59afc9",
+      "Scene": "Preload",
+      "Value": [
+        "Loading scene..."
+      ],
+      "State": "Added"
+    }
+  ],
+  "name": "",
+  "hideFlags": 0
+}
