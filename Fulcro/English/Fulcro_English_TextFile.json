@@ -735,7 +735,8 @@
          "Scene":"02-Faena",
          "Value":[
             "Back",
-            "Next"
+            "Next",
+            "End"
          ],
          "State":"Added"
       },
@@ -744,7 +745,8 @@
          "Scene":"02-Faena",
          "Value":[
             "Back",
-            "Next"
+            "Next",
+            "End"
          ],
          "State":"Added"
       },

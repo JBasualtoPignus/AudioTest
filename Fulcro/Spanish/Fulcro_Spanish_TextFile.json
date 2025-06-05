@@ -735,7 +735,8 @@
       "Scene": "02-Faena",
       "Value": [
         "Atras",
-        "Siguiente"
+        "Siguiente",
+        "Terminar"
       ],
       "State": "Added"
     },
@@ -744,7 +745,8 @@
       "Scene": "02-Faena",
       "Value": [
         "Atras",
-        "Siguiente"
+        "Siguiente",
+        "Terminar"
       ],
       "State": "Added"
     },
