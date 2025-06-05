@@ -612,7 +612,8 @@
       "Key": "3379a0de-0f80-4cea-8fea-d6b23fcbe9f9",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta"
+        "<color=green>Correcto</color>",
+        "<color=red>Incorrecto</color>"
       ],
       "State": "Added"
     },
@@ -620,7 +621,18 @@
       "Key": "2f587bb0-5ea1-439b-9628-d0c4f497b241",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta"
+        "Establecer las condiciones sanitarias y ambientales mínimas que deben existir en los lugares de trabajo .",
+        "Reducir  los impactos de un evento no deseado con adecuadas medidas o controles mitigantes, asegurando la continuidad del negocio.",
+        "Proteger al trabajador de los peligros presentes en la faena minera y que pueden ocasionar lesiones menores o efectos en la salud.",
+        "Regular las operaciones y condiciones de trabajo en la Minería para proteger la salud de los trabajadores.",
+        "Reducir las causas y consecuencias en los accidentes de trabajo para establecer mejores planes de emergencia.",
+        "Proteger al trabajador de riesgos laborales que podrían causar lesiones o enfermedades, reduciendo el contacto directo con factores de riesgo.",
+        "Proteger la vida e integridad física de los trabajadores, la integridad de las instalaciones ,   protección y conservación del medio ambiente",
+        "Evitar los accidentes de trabajo y los incidentes operacionales en los lugares de trabajo para prevenir emergencias.",
+        "Cuidar la salud de los trabajadores de acuerdo a lo que establece la ley y normativa interna en las mineras.",
+        "Proteger la vida de los trabajadores , la integridad de las instalaciones y equipos de trabajo.",
+        "Identificar los peligros y evaluar los riesgos en el lugar de trabajo para enfrentar las emergencias en forma adecuada.",
+        "Contribuye a otorgar seguridad a los trabajadores durante el desarrollo de las actividades laborales, previniendo accidentes."
       ],
       "State": "Added"
     },
@@ -628,7 +640,9 @@
       "Key": "397ae031-5f40-4a50-983c-5c6b39bdcd4d",
       "Scene": "02-Faena",
       "Value": [
-        "Enunciado"
+        "1. ¿Por qué son importantes la Legislación y Normativas internas en la Minería?",
+        "2.  ¿Cuál es el propósito de los planes de emergencia en un complejo minero?",
+        "3.  ¿Cuál es el propósito del uso de los elementos de protección personal (EPP) en un complejo minero?"
       ],
       "State": "Added"
     },
@@ -636,7 +650,8 @@
       "Key": "e5b5333a-2100-4d20-b186-8ebb31773b90",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta"
+        "<color=green>Correcto</color>",
+        "<color=red>Incorrecto</color>"
       ],
       "State": "Added"
     },
@@ -644,7 +659,18 @@
       "Key": "4d28c75a-6914-4343-8032-f23ba4344b44",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta"
+        "Establecer las condiciones sanitarias y ambientales mínimas que deben existir en los lugares de trabajo .",
+        "Reducir  los impactos de un evento no deseado con adecuadas medidas o controles mitigantes, asegurando la continuidad del negocio.",
+        "Proteger al trabajador de los peligros presentes en la faena minera y que pueden ocasionar lesiones menores o efectos en la salud.",
+        "Regular las operaciones y condiciones de trabajo en la Minería para proteger la salud de los trabajadores.",
+        "Reducir las causas y consecuencias en los accidentes de trabajo para establecer mejores planes de emergencia.",
+        "Proteger al trabajador de riesgos laborales que podrían causar lesiones o enfermedades, reduciendo el contacto directo con factores de riesgo.",
+        "Proteger la vida e integridad física de los trabajadores, la integridad de las instalaciones ,   protección y conservación del medio ambiente",
+        "Evitar los accidentes de trabajo y los incidentes operacionales en los lugares de trabajo para prevenir emergencias.",
+        "Cuidar la salud de los trabajadores de acuerdo a lo que establece la ley y normativa interna en las mineras.",
+        "Proteger la vida de los trabajadores , la integridad de las instalaciones y equipos de trabajo.",
+        "Identificar los peligros y evaluar los riesgos en el lugar de trabajo para enfrentar las emergencias en forma adecuada.",
+        "Contribuye a otorgar seguridad a los trabajadores durante el desarrollo de las actividades laborales, previniendo accidentes."
       ],
       "State": "Added"
     },
@@ -652,7 +678,9 @@
       "Key": "e552ee26-6d2d-40bc-b806-1511ddb04182",
       "Scene": "02-Faena",
       "Value": [
-        "Enunciado"
+        "1. ¿Por qué son importantes la Legislación y Normativas internas en la Minería?",
+        "2.  ¿Cuál es el propósito de los planes de emergencia en un complejo minero?",
+        "3.  ¿Cuál es el propósito del uso de los elementos de protección personal (EPP) en un complejo minero?"
       ],
       "State": "Added"
     },
@@ -660,7 +688,8 @@
       "Key": "be210dd0-df5e-46ae-9d79-afe55016e30c",
       "Scene": "02-Faena",
       "Value": [
-        "<color=green>Correcto</color>"
+        "<color=green>Correcto</color>",
+        "<color=red>Incorrecto</color>"
       ],
       "State": "Added"
     },
@@ -668,7 +697,18 @@
       "Key": "e477fe9f-b3fe-4b55-8a6f-6570c10880d9",
       "Scene": "02-Faena",
       "Value": [
-        "<color=green>Respuesta"
+        "Establecer las condiciones sanitarias y ambientales mínimas que deben existir en los lugares de trabajo .",
+        "Reducir  los impactos de un evento no deseado con adecuadas medidas o controles mitigantes, asegurando la continuidad del negocio.",
+        "Proteger al trabajador de los peligros presentes en la faena minera y que pueden ocasionar lesiones menores o efectos en la salud.",
+        "Regular las operaciones y condiciones de trabajo en la Minería para proteger la salud de los trabajadores.",
+        "Reducir las causas y consecuencias en los accidentes de trabajo para establecer mejores planes de emergencia.",
+        "Proteger al trabajador de riesgos laborales que podrían causar lesiones o enfermedades, reduciendo el contacto directo con factores de riesgo.",
+        "Proteger la vida e integridad física de los trabajadores, la integridad de las instalaciones ,   protección y conservación del medio ambiente",
+        "Evitar los accidentes de trabajo y los incidentes operacionales en los lugares de trabajo para prevenir emergencias.",
+        "Cuidar la salud de los trabajadores de acuerdo a lo que establece la ley y normativa interna en las mineras.",
+        "Proteger la vida de los trabajadores , la integridad de las instalaciones y equipos de trabajo.",
+        "Identificar los peligros y evaluar los riesgos en el lugar de trabajo para enfrentar las emergencias en forma adecuada.",
+        "Contribuye a otorgar seguridad a los trabajadores durante el desarrollo de las actividades laborales, previniendo accidentes."
       ],
       "State": "Added"
     },
@@ -676,7 +716,9 @@
       "Key": "b7f8d655-529b-4717-a0cb-270b7ebd68a9",
       "Scene": "02-Faena",
       "Value": [
-        "<color=green>Enunciado"
+        "1. ¿Por qué son importantes la Legislación y Normativas internas en la Minería?",
+        "2.  ¿Cuál es el propósito de los planes de emergencia en un complejo minero?",
+        "3.  ¿Cuál es el propósito del uso de los elementos de protección personal (EPP) en un complejo minero?"
       ],
       "State": "Added"
     },
@@ -692,6 +734,7 @@
       "Key": "0b630eed-4c11-4a4b-ba0c-87743ddbec83",
       "Scene": "02-Faena",
       "Value": [
+        "Atras",
         "Siguiente"
       ],
       "State": "Added"
@@ -700,7 +743,8 @@
       "Key": "086e28c6-6811-4c1f-ae6c-70394021dec0",
       "Scene": "02-Faena",
       "Value": [
-        "Atras"
+        "Atras",
+        "Siguiente"
       ],
       "State": "Added"
     },
@@ -708,7 +752,9 @@
       "Key": "8fff5929-4189-410e-81ae-76017dec6509",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta pregunta numero uno."
+        "Establecer las condiciones sanitarias y ambientales mínimas que deben existir en los lugares de trabajo .",
+        "Reducir  los impactos de un evento no deseado con adecuadas medidas o controles mitigantes, asegurando la continuidad del negocio.",
+        "Proteger al trabajador de los peligros presentes en la faena minera y que pueden ocasionar lesiones menores o efectos en la salud."
       ],
       "State": "Added"
     },
@@ -716,7 +762,9 @@
       "Key": "43b06f97-62fa-442c-9d57-6f4b287d5652",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta pregunta numero uno."
+        "Regular las operaciones y condiciones de trabajo en la Minería para proteger la salud de los trabajadores.",
+        "Reducir las causas y consecuencias en los accidentes de trabajo para establecer mejores planes de emergencia.",
+        "Proteger al trabajador de riesgos laborales que podrían causar lesiones o enfermedades, reduciendo el contacto directo con factores de riesgo."
       ],
       "State": "Added"
     },
@@ -724,7 +772,9 @@
       "Key": "9bae806a-18c9-463f-b6d2-0c712d5463ad",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta pregunta numero uno."
+        "Proteger la vida e integridad física de los trabajadores, la integridad de las instalaciones ,   protección y conservación del medio ambiente",
+        "Evitar los accidentes de trabajo y los incidentes operacionales en los lugares de trabajo para prevenir emergencias.",
+        "Cuidar la salud de los trabajadores de acuerdo a lo que establece la ley y normativa interna en las mineras."
       ],
       "State": "Added"
     },
@@ -732,7 +782,9 @@
       "Key": "6023c53e-47ca-4543-aa5d-e6c0a9c578d6",
       "Scene": "02-Faena",
       "Value": [
-        "Respuesta pregunta numero uno."
+        "Proteger la vida de los trabajadores , la integridad de las instalaciones y equipos de trabajo.",
+        "Identificar los peligros y evaluar los riesgos en el lugar de trabajo para enfrentar las emergencias en forma adecuada.",
+        "Contribuye a otorgar seguridad a los trabajadores durante el desarrollo de las actividades laborales, previniendo accidentes."
       ],
       "State": "Added"
     },
@@ -740,7 +792,9 @@
       "Key": "814480f3-6a5c-404c-8942-6e4dafa67b24",
       "Scene": "02-Faena",
       "Value": [
-        "Statement"
+        "1. ¿Por qué son importantes la Legislación y Normativas internas en la Minería?",
+        "2.  ¿Cuál es el propósito de los planes de emergencia en un complejo minero?",
+        "3.  ¿Cuál es el propósito del uso de los elementos de protección personal (EPP) en un complejo minero?"
       ],
       "State": "Added"
     },
@@ -2167,6 +2221,27 @@
         "Cargando escena..."
       ],
       "State": "Added"
+    },
+    {
+      "Key": "06dc6d29-b29b-4a80-a3a3-ae79816e016f",
+      "Scene": "From Prefab",
+      "Value": [
+        "Conos colocados: \n 1",
+        "Conos colocados: \n 2",
+        "Conos colocados: \n 3",
+        "Conos colocados: \n 4"
+      ],
+      "State": "Added From Prefab"
+    },
+    {
+      "Key": "ed257827-1e7c-457d-b6e7-bc79e99ec0a3",
+      "Scene": "From Prefab",
+      "Value": [
+        "Activar luces",
+        "Cambiar a rojo",
+        "Cambiar a verde"
+      ],
+      "State": "Added From Prefab"
     }
   ],
   "name": "",
