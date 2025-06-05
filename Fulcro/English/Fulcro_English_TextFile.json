@@ -735,8 +735,7 @@
          "Scene":"02-Faena",
          "Value":[
             "Back",
-            "Next",
-            "End"
+            "Next"
          ],
          "State":"Added"
       },
@@ -745,8 +744,7 @@
          "Scene":"02-Faena",
          "Value":[
             "Back",
-            "Next",
-            "End"
+            "Next"
          ],
          "State":"Added"
       },
@@ -2228,10 +2226,11 @@
         "Key": "06dc6d29-b29b-4a80-a3a3-ae79816e016f",
         "Scene": "From Prefab",
         "Value": [
-          "Cones placed: \n 1",
-          "Cones placed: \n 2",
-          "Cones placed: \n 3",
-          "Cones placed: \n 4"
+          "Cones placed:",
+          "Cones placed: 1",
+          "Cones placed: 2",
+          "Cones placed: 3",
+          "Cones placed: 4"
         ],
         "State": "Added From Prefab"
       },

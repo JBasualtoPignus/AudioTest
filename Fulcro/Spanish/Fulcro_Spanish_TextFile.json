@@ -2228,10 +2228,11 @@
       "Key": "06dc6d29-b29b-4a80-a3a3-ae79816e016f",
       "Scene": "From Prefab",
       "Value": [
-        "Conos colocados: \n 1",
-        "Conos colocados: \n 2",
-        "Conos colocados: \n 3",
-        "Conos colocados: \n 4"
+        "Conos colocados:",
+        "Conos colocados: 1",
+        "Conos colocados: 2",
+        "Conos colocados: 3",
+        "Conos colocados: 4"
       ],
       "State": "Added From Prefab"
     },
