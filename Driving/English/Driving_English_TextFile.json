@@ -996,7 +996,9 @@
       "Key": "c5e71fb4-d080-4527-afce-0bcbb8823bca",
       "Scene": "PrimerosPasos",
       "Value": [
-        "We have finished the tutorial for moving around, is it clear or do you need to repeat the instructions?"
+        "We've finished the controls tutorial. Is everything clear, or do you need to repeat the instructions?",
+        "We've finished the selection tutorial. Is everything clear, or do you need to repeat the instructions?",
+        "We've finished the movement tutorial. Is everything clear, or do you need to repeat the instructions?"
       ],
       "State": "Added"
     },
@@ -1317,8 +1319,23 @@
       "Key": "3d24db38-a1f1-4d51-8909-31f3232d4e86",
       "Scene": "Driving",
       "Value": [
-        "",
-        "A few meters from you there is a flooded area with a depth greater than 1 meter, what will you do? "
+        "A large animal has just crossed your path, what should you do?",
+        "It seems you're a little tired, what should you do?",
+        "There's dense fog this morning (camanchaca), what should you do?",
+        "A person crossed outside a designated crosswalk, what will you do?",
+        "A pole has fallen onto the road, what should you do?",
+        "There are some puddles on the road, what should you do?",
+        "A road sign has fallen onto the road, what should you do?",
+        "Suddenly, the sun is directly in your eyes, what should you do?",
+        "An urgent call is coming in on your cell phone, what will you do?",
+        "A thunderstorm has just started, what should you do?",
+        "A vehicle brakes suddenly in front of you, what should you do?",
+        "There's a vehicle making erratic movements, what should you do?",
+        "A heavy vehicle ahead is losing part of its load, what should you do?",
+        "A vehicle is coming towards you, what will you do?",
+        "A vehicle is approaching with its high beams on, what can you do?",
+        "An emergency vehicle is approaching, what should you do?",
+        "A few meters ahead, there's a flooded area over 1 meter deep, what will you do?"
       ],
       "State": "Added"
     },

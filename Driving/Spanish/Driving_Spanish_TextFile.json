@@ -996,6 +996,8 @@
       "Key": "c5e71fb4-d080-4527-afce-0bcbb8823bca",
       "Scene": "PrimerosPasos",
       "Value": [
+        "Hemos terminado el tutorial de los controles, te ha quedado todo claro o necesitas repetir las instrucciones?",
+        "Hemos terminado el tutorial de seleccionar, te ha quedado claro o necesitas repetir las instrucciones?",
         "Hemos terminado el tutorial para desplazarte, te ha quedado claro o necesitas repetir las instrucciones?"
       ],
       "State": "Added"
@@ -1317,8 +1319,23 @@
       "Key": "3d24db38-a1f1-4d51-8909-31f3232d4e86",
       "Scene": "Driving",
       "Value": [
-        "",
-        "A unos metros de ti se encuentra una zona inundada con profundidad mayor a 1 metro, qué harás? "
+        "Acaba de cruzarse un animal de gran tamaño en tu camino, qué deberías hacer?",
+        "Al parecer estás un poco cansado, qué deberías hacer?",
+        "Hoy amaneció con camanchaca, que deberías hacer?",
+        "Una persona cruzó en un paso no habilitado, qué harás?",
+        "Un poste cayó en el camino, tú deberías?",
+        "Hay algunas posas en el camino, qué deberías hacer?",
+        "Hay una señalética caída en el camino, que deberías hacer?",
+        "De repente te llega el sol directamente a los ojos, que deberías hacer?",
+        "Una llamada urgente entra a tu celular, qué harás?",
+        "Acaba de iniciar una tormenta eléctrica, que deberías hacer?",
+        "Un vehículo frena de improviso delante tuyo, que deberías hacer?",
+        "Hay un vehículo haciendo movimientos erráticos, que deberías hacer?",
+        "Hay un vehículo pesado al que se le está cayendo parte de su carga, que deberías hacer?",
+        "Viene un vehículo frente a ti, que harás?",
+        "Viene un vehículo con las luces altas encendidas, que puedes hacer?",
+        "Se acerca un vehículo de emergencia, que deberías hacer?",
+        "A unos metros de ti se encuentra una zona inundada con profundidad mayor a 1 metro, qué harás?"
       ],
       "State": "Added"
     },
