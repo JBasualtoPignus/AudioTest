@@ -1,0 +1,16 @@
+{
+  "e221800a-4b53-4b95-8451-ed1815caecb1": {
+    "Bienvenido": "Hola, bienvenido",
+    "HoyTeEnsenare": "Hoy te enseñaré cuáles son las cinco reglas de oro de los trabajos eléctricos, te explicaré cada uno de los pasos que debes seguir",
+    "CorteDeLasFuentes": "1. Corte de las fuentes:\r\nPrimero que todo es importante que cortes cualquier fuente de energía que alimente él\r\nDispositivo a trabajar, y así cancelar sus posibles retornos de energía.",
+    "BloqueoOCondenacion": "2.-Bloqueo del equipo a intervenir.\r\nPara asegurar que el interruptor permanezca apagado debes bloquearlo con algo\r\nQue impida encenderlo. Toma el candado sobre la mesa y úsalo para llevar a cabo esta acción",
+    "VerificaTension": "3.-Verifica la ausencia de tensión\r\nEn este paso debes utilizar el detector de tensión sobre la mesa para\r\nasegurarte de que no quede carga eléctrica en los circuitos en los que trabajarás",
+    "LlevaATierra": "4.-Cortocircuita y lleva a tierra\r\nEste paso es muy importante, conecta los cables de tierra a los cables de\r\nInstalación a tierra, así nos aseguramos de la correcta descarga de los elementos y que permanezcan cortocircuitadas",
+    "Senaliza": "5.-Señaliza la zona de trabajo\r\nPara terminar debes señalizar toda tu zona de trabajo, así aseguramos qué no ingrese personal no autorizado. ",
+    "Excelente": "¡Excelente! Ahora eres un experto en las cinco reglas de oro eléctricas, tenemos una condición de trabajo eléctricamente segura.",
+    "RepetirTutorial": "Si quieres volver a repetir la experiencia, presiona el botón de “Repetir”",
+    "ParaComenzar": "Para comenzar presiona el botón de “Comenzar”",
+    "ParaCompletar": "Para completar cada regla de oro debes realizar el procedimiento en el circuito que se encuentra a tu izquierda. \r",
+    "MiraLaPantalla": "Cada vez que termines un paso, vuelve a mirar la pantalla para escuchar la siguiente instrucción.\r"
+  }
+}

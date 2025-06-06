@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "Key": "6a09e380-9a84-486c-af4d-ad888b95e24a",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "ロビーに戻る"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "66c23335-052b-4fe4-9b12-a654288953fa",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "開始するには「開始」ボタンを押してください"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "07c48127-8f63-4b04-9a95-41aabe6c2089",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "こんにちは、ようこそ",
+        "今日は電気作業における5つの黄金律と、守るべき各手順について説明します",
+        "各黄金律を完了するには、左側にある回路で手順を実行してください。\r",
+        "ステップを終えるたびに、次の指示を聞くために再度画面を見てください。\r",
+        "1. 電源の遮断：\r\nまず、作業対象の装置に電力を供給している全ての電源を遮断し、\r\n考えられるエネルギーの逆流を無効にすることが重要です。",
+        "2. 作業対象機器のロックアウト：\r\nスイッチがオフのままであることを確実にするため、オンにできないように何かでロックする必要があります。\r\nテーブルの上にある南京錠を取り、この作業を行ってください",
+        "3. 無電圧確認：\r\nこのステップでは、テーブルの上にある検電器を使用して、\r\n作業する回路に電荷が残っていないことを確認してください",
+        "4. 短絡接地：\r\nこのステップは非常に重要です。アース線をアース設備のケーブルに接続してください。\r\nこれにより、機器が正しく放電され、短絡状態が維持されることを確実にします",
+        "5. 作業場所の標識設置：\r\n最後に、作業エリア全体を標識で示し、権限のない者の立ち入りを防いでください。",
+        "素晴らしい！これであなたは電気の5つの黄金律の専門家です。電気的に安全な作業状態が確保されました。"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "d3a0faa2-c921-4506-a123-f1c7dd6b91ed",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "オフ"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "f26f2458-b284-4a46-957a-f20a0bd51a0a",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        ""
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "4b2dc892-70d1-4821-8e6a-4d3355b687aa",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "検電器"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "99cac848-2b7e-45f7-9e3d-bcc10bb798e3",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "開始"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "d73c06bb-a21c-4538-9859-806790a4781a",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "接地\n設備"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "dc0c7358-8340-4db2-9e5b-dcb8deb64102",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "オン"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "eb156583-a67c-4530-8af8-1ad1727a4a14",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "スイッチ"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "f589505b-ba1c-4f8f-9175-fa0b735414a2",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "リピート"
+      ],
+      "State": "Updated"
+    },
+    {
+      "Key": "8e41dc4f-3838-4a56-98e0-b71480e0a269",
+      "Scene": "CincoReglasDeOroMP",
+      "Value": [
+        "南京錠\n"
+      ],
+      "State": "Updated"
+    }
+  ],
+  "name": "",
+  "hideFlags": 0
+}
