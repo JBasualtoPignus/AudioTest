@@ -104,7 +104,79 @@
         "南京錠\n"
       ],
       "State": "Updated"
-    }
+    },
+    {
+    "Key": "cf026d4f-0843-4cbf-872d-645c676d5bfb",
+    "Scene": "Preload",
+    "Value": [ ">" ],
+    "State": "Added"
+  },
+  {
+    "Key": "612fa752-6072-45d3-8ce5-cabf7bd923bf",
+    "Scene": "Preload",
+    "Value": [ "<" ],
+    "State": "Added"
+  },
+  {
+    "Key": "22d05b45-8959-4605-a2de-42e7e3a9859c",
+    "Scene": "Preload",
+    "Value": [ "視野開口部: 1.0" ],
+    "State": "Added"
+  },
+  {
+    "Key": "78d1796f-a1d3-4377-9d34-69a9772a2ebb",
+    "Scene": "Preload",
+    "Value": [ "マイク" ],
+    "State": "Added"
+  },
+  {
+    "Key": "e41bedeb-5d33-415c-8df4-dd9a20a8dd89",
+    "Scene": "Preload",
+    "Value": [ ">" ],
+    "State": "Added"
+  },
+  {
+    "Key": "abecb5d5-1ae2-4936-8153-2f7784bc93ba",
+    "Scene": "Preload",
+    "Value": [ "<" ],
+    "State": "Added"
+  },
+  {
+    "Key": "fbb66f96-57aa-4833-9570-7948c8066e5d",
+    "Scene": "Preload",
+    "Value": [ "視野開口部: 1" ],
+    "State": "Added"
+  },
+  {
+    "Key": "3628214b-ef09-473f-8d08-1a292c59047e",
+    "Scene": "Preload",
+    "Value": [ "マイク" ],
+    "State": "Added"
+  },
+  {
+    "Key": "eaee3835-d527-4e2e-b39f-4d958cc1609d",
+    "Scene": "Preload",
+    "Value": [ "回転" ],
+    "State": "Added"
+  },
+  {
+    "Key": "1d8181b7-0e4f-43d0-ae53-1363292dd79b",
+    "Scene": "Preload",
+    "Value": [ "テレポート" ],
+    "State": "Added"
+  },
+  {
+    "Key": "2ba0aae0-fb95-4d31-b2b6-e03f2f1488e6",
+    "Scene": "Preload",
+    "Value": [ "ニックネーム" ],
+    "State": "Added"
+  },
+  {
+    "Key": "23442c52-451b-4cb1-9252-df85ec59afc9",
+    "Scene": "Preload",
+    "Value": [ "シーンを読み込み中..." ],
+    "State": "Added"
+  }
   ],
   "name": "",
   "hideFlags": 0
